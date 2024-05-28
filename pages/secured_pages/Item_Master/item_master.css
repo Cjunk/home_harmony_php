@@ -1,0 +1,25 @@
+.item-page-content {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height:100%;
+}
+
+.frm {
+  display: flex;
+  flex-direction: column;
+}
+.frm > input,
+label,
+button {
+  width: 100%;
+}
+.frm > input {
+  margin-bottom: 5px;
+}
+.modal-title{
+  width:50%;
+}

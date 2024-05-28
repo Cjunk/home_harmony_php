@@ -1,0 +1,707 @@
+get Item master list.php: Script accessed at 2024-05-28 07:18:33
+get Item master list.php: Session username: usr at 2024-05-28 07:18:33
+get Item master list.php: Session user_id: 2 at 2024-05-28 07:18:33
+get Item master list.php: db.php file included successfully at 2024-05-28 07:18:33
+get Item master list.php: Database connection established at 2024-05-28 07:18:34
+get Item master list.php: Script accessed at 2024-05-28 07:20:16
+get Item master list.php: Session username: usr at 2024-05-28 07:20:16
+get Item master list.php: Session user_id: 2 at 2024-05-28 07:20:16
+get Item master list.php: db.php file included successfully at 2024-05-28 07:20:16
+get Item master list.php: Database connection established at 2024-05-28 07:20:16
+get Item master list.php: Script accessed at 2024-05-28 07:20:41
+get Item master list.php: Session username: usr at 2024-05-28 07:20:41
+get Item master list.php: Session user_id: 2 at 2024-05-28 07:20:41
+get Item master list.php: db.php file included successfully at 2024-05-28 07:20:41
+get Item master list.php: Database connection established at 2024-05-28 07:20:41
+get Item master list.php: Script accessed at 2024-05-28 07:20:53
+get Item master list.php: Session username: usr at 2024-05-28 07:20:53
+get Item master list.php: Session user_id: 2 at 2024-05-28 07:20:53
+get Item master list.php: db.php file included successfully at 2024-05-28 07:20:53
+get Item master list.php: Database connection established at 2024-05-28 07:20:54
+get Item master list.php: Script accessed at 2024-05-28 07:20:55
+get Item master list.php: Session username: usr at 2024-05-28 07:20:55
+get Item master list.php: Session user_id: 2 at 2024-05-28 07:20:55
+get Item master list.php: db.php file included successfully at 2024-05-28 07:20:55
+get Item master list.php: Database connection established at 2024-05-28 07:20:55
+get Item master list.php: Script accessed at 2024-05-28 07:20:56
+get Item master list.php: Session username: usr at 2024-05-28 07:20:56
+get Item master list.php: Session user_id: 2 at 2024-05-28 07:20:56
+get Item master list.php: db.php file included successfully at 2024-05-28 07:20:56
+get Item master list.php: Database connection established at 2024-05-28 07:20:57
+get Item master list.php: Script accessed at 2024-05-28 07:21:03
+get Item master list.php: Session username: usr at 2024-05-28 07:21:03
+get Item master list.php: Session user_id: 2 at 2024-05-28 07:21:03
+get Item master list.php: db.php file included successfully at 2024-05-28 07:21:03
+get Item master list.php: Database connection established at 2024-05-28 07:21:03
+get Item master list.php: Script accessed at 2024-05-28 07:21:10
+get Item master list.php: Session username: usr at 2024-05-28 07:21:10
+get Item master list.php: Session user_id: 2 at 2024-05-28 07:21:10
+get Item master list.php: db.php file included successfully at 2024-05-28 07:21:10
+get Item master list.php: Database connection established at 2024-05-28 07:21:11
+get Item master list.php: Script accessed at 2024-05-28 07:26:08
+get Item master list.php: Session username: usr at 2024-05-28 07:26:08
+get Item master list.php: Session user_id: 2 at 2024-05-28 07:26:08
+get Item master list.php: db.php file included successfully at 2024-05-28 07:26:08
+get Item master list.php: Database connection established at 2024-05-28 07:26:09
+get Item master list.php: Script accessed at 2024-05-28 07:26:48
+get Item master list.php: Session username: usr at 2024-05-28 07:26:48
+get Item master list.php: Session user_id: 2 at 2024-05-28 07:26:48
+get Item master list.php: db.php file included successfully at 2024-05-28 07:26:48
+get Item master list.php: Database connection established at 2024-05-28 07:26:48
+get Item master list.php: Script accessed at 2024-05-28 11:07:44
+get Item master list.php: Session username: usr at 2024-05-28 11:07:44
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:07:44
+get Item master list.php: db.php file included successfully at 2024-05-28 11:07:44
+get Item master list.php: Database connection established at 2024-05-28 11:07:44
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:07:44
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:07:44
+get Item master list.php: Script accessed at 2024-05-28 11:09:12
+get Item master list.php: Session username: usr at 2024-05-28 11:09:12
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:09:12
+get Item master list.php: db.php file included successfully at 2024-05-28 11:09:12
+get Item master list.php: Database connection established at 2024-05-28 11:09:13
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:09:13
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:09:13
+get Item master list.php: Script accessed at 2024-05-28 11:09:22
+get Item master list.php: Session username: usr at 2024-05-28 11:09:22
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:09:22
+get Item master list.php: db.php file included successfully at 2024-05-28 11:09:22
+get Item master list.php: Database connection established at 2024-05-28 11:09:22
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:09:22
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:09:22
+get Item master list.php: Script accessed at 2024-05-28 11:09:48
+get Item master list.php: Session username: usr at 2024-05-28 11:09:48
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:09:48
+get Item master list.php: db.php file included successfully at 2024-05-28 11:09:48
+get Item master list.php: Database connection established at 2024-05-28 11:09:48
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:09:48
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:09:48
+get Item master list.php: Script accessed at 2024-05-28 11:10:16
+get Item master list.php: Session username: usr at 2024-05-28 11:10:16
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:10:16
+get Item master list.php: db.php file included successfully at 2024-05-28 11:10:16
+get Item master list.php: Database connection established at 2024-05-28 11:10:16
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:10:16
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:10:16
+get Item master list.php: Script accessed at 2024-05-28 11:12:33
+get Item master list.php: Session username: usr at 2024-05-28 11:12:33
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:12:33
+get Item master list.php: db.php file included successfully at 2024-05-28 11:12:33
+get Item master list.php: Database connection established at 2024-05-28 11:12:33
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:12:33
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:12:33
+get Item master list.php: Script accessed at 2024-05-28 11:14:23
+get Item master list.php: Session username: usr at 2024-05-28 11:14:23
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:14:23
+get Item master list.php: db.php file included successfully at 2024-05-28 11:14:23
+get Item master list.php: Database connection established at 2024-05-28 11:14:23
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:14:23
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:14:23
+get Item master list.php: Script accessed at 2024-05-28 11:16:25
+get Item master list.php: Session username: usr at 2024-05-28 11:16:25
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:16:25
+get Item master list.php: db.php file included successfully at 2024-05-28 11:16:25
+get Item master list.php: Database connection established at 2024-05-28 11:16:25
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:16:26
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:16:26
+get Item master list.php: Script accessed at 2024-05-28 11:18:17
+get Item master list.php: Script accessed at 2024-05-28 11:18:31
+get Item master list.php: Script accessed at 2024-05-28 11:18:43
+get Item master list.php: Script accessed at 2024-05-28 11:19:06
+get Item master list.php: Script accessed at 2024-05-28 11:19:24
+get Item master list.php: Script accessed at 2024-05-28 11:20:03
+get Item master list.php: Script accessed at 2024-05-28 11:20:29
+get Item master list.php: Session username: usr at 2024-05-28 11:20:29
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:20:29
+get Item master list.php: db.php file included successfully at 2024-05-28 11:20:29
+get Item master list.php: Database connection established at 2024-05-28 11:20:30
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:20:30
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:20:30
+get Item master list.php: Script accessed at 2024-05-28 11:20:41
+get Item master list.php: Session username: usr at 2024-05-28 11:20:41
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:20:41
+get Item master list.php: db.php file included successfully at 2024-05-28 11:20:41
+get Item master list.php: Database connection established at 2024-05-28 11:20:42
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:20:42
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:20:42
+get Item master list.php: Script accessed at 2024-05-28 11:21:01
+get Item master list.php: Session username: usr at 2024-05-28 11:21:01
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:21:01
+get Item master list.php: db.php file included successfully at 2024-05-28 11:21:01
+get Item master list.php: Database connection established at 2024-05-28 11:21:02
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:21:02
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:21:02
+get Item master list.php: Script accessed at 2024-05-28 11:21:09
+get Item master list.php: Session username: usr at 2024-05-28 11:21:09
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:21:09
+get Item master list.php: db.php file included successfully at 2024-05-28 11:21:09
+get Item master list.php: Database connection established at 2024-05-28 11:21:09
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:21:09
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:21:09
+get Item master list.php: Script accessed at 2024-05-28 11:21:31
+get Item master list.php: Session username: usr at 2024-05-28 11:21:31
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:21:31
+get Item master list.php: db.php file included successfully at 2024-05-28 11:21:31
+get Item master list.php: Database connection established at 2024-05-28 11:21:31
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:21:31
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:21:31
+get Item master list.php: Script accessed at 2024-05-28 11:22:08
+get Item master list.php: Session username: usr at 2024-05-28 11:22:08
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:22:08
+get Item master list.php: db.php file included successfully at 2024-05-28 11:22:08
+get Item master list.php: Database connection established at 2024-05-28 11:22:08
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:22:08
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:22:08
+get Item master list.php: Script accessed at 2024-05-28 11:22:19
+get Item master list.php: Session username: usr at 2024-05-28 11:22:19
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:22:19
+get Item master list.php: db.php file included successfully at 2024-05-28 11:22:19
+get Item master list.php: Database connection established at 2024-05-28 11:22:19
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:22:19
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:22:19
+get Item master list.php: Script accessed at 2024-05-28 11:33:35
+get Item master list.php: Session username: usr at 2024-05-28 11:33:35
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:33:35
+get Item master list.php: db.php file included successfully at 2024-05-28 11:33:35
+get Item master list.php: Database connection established at 2024-05-28 11:33:35
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:33:35
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:33:35
+get Item master list.php: Script accessed at 2024-05-28 11:44:15
+get Item master list.php: Session username: usr at 2024-05-28 11:44:15
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:44:15
+get Item master list.php: db.php file included successfully at 2024-05-28 11:44:15
+get Item master list.php: Database connection established at 2024-05-28 11:44:15
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:44:15
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:44:15
+get Item master list.php: Script accessed at 2024-05-28 11:46:38
+get Item master list.php: Session username: usr at 2024-05-28 11:46:38
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:46:38
+get Item master list.php: db.php file included successfully at 2024-05-28 11:46:38
+get Item master list.php: Database connection established at 2024-05-28 11:46:38
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:46:38
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:46:38
+get Item master list.php: Script accessed at 2024-05-28 11:46:54
+get Item master list.php: Session username: usr at 2024-05-28 11:46:54
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:46:54
+get Item master list.php: db.php file included successfully at 2024-05-28 11:46:54
+get Item master list.php: Database connection established at 2024-05-28 11:46:54
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:46:55
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:46:55
+get Item master list.php: Script accessed at 2024-05-28 11:48:29
+get Item master list.php: Session username: usr at 2024-05-28 11:48:29
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:48:29
+get Item master list.php: db.php file included successfully at 2024-05-28 11:48:29
+get Item master list.php: Database connection established at 2024-05-28 11:48:30
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:48:30
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:48:30
+get Item master list.php: Script accessed at 2024-05-28 11:48:45
+get Item master list.php: Session username: usr at 2024-05-28 11:48:45
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:48:45
+get Item master list.php: db.php file included successfully at 2024-05-28 11:48:45
+get Item master list.php: Database connection established at 2024-05-28 11:48:45
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:48:46
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:48:46
+get Item master list.php: Script accessed at 2024-05-28 11:50:33
+get Item master list.php: Session username: usr at 2024-05-28 11:50:33
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:50:33
+get Item master list.php: db.php file included successfully at 2024-05-28 11:50:33
+get Item master list.php: Database connection established at 2024-05-28 11:50:33
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:50:33
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:50:33
+get Item master list.php: Script accessed at 2024-05-28 11:51:00
+get Item master list.php: Session username: usr at 2024-05-28 11:51:00
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:51:00
+get Item master list.php: db.php file included successfully at 2024-05-28 11:51:00
+get Item master list.php: Database connection established at 2024-05-28 11:51:00
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:51:00
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:51:00
+get Item master list.php: Script accessed at 2024-05-28 11:52:31
+get Item master list.php: Session username: usr at 2024-05-28 11:52:31
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:52:31
+get Item master list.php: db.php file included successfully at 2024-05-28 11:52:31
+get Item master list.php: Database connection established at 2024-05-28 11:52:32
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:52:32
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:52:32
+get Item master list.php: Script accessed at 2024-05-28 11:53:00
+get Item master list.php: Session username: usr at 2024-05-28 11:53:00
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:53:00
+get Item master list.php: db.php file included successfully at 2024-05-28 11:53:00
+get Item master list.php: Database connection established at 2024-05-28 11:53:00
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:53:00
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:53:00
+get Item master list.php: Script accessed at 2024-05-28 11:53:35
+get Item master list.php: Session username: usr at 2024-05-28 11:53:35
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:53:35
+get Item master list.php: db.php file included successfully at 2024-05-28 11:53:35
+get Item master list.php: Database connection established at 2024-05-28 11:53:35
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:53:36
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:53:36
+get Item master list.php: Script accessed at 2024-05-28 11:55:23
+get Item master list.php: Session username: usr at 2024-05-28 11:55:23
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:55:23
+get Item master list.php: db.php file included successfully at 2024-05-28 11:55:23
+get Item master list.php: Database connection established at 2024-05-28 11:55:23
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:55:24
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:55:24
+get Item master list.php: Script accessed at 2024-05-28 11:55:49
+get Item master list.php: Session username: usr at 2024-05-28 11:55:49
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:55:49
+get Item master list.php: db.php file included successfully at 2024-05-28 11:55:49
+get Item master list.php: Database connection established at 2024-05-28 11:55:49
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:55:49
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:55:49
+get Item master list.php: Script accessed at 2024-05-28 11:56:44
+get Item master list.php: Session username: usr at 2024-05-28 11:56:44
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:56:44
+get Item master list.php: db.php file included successfully at 2024-05-28 11:56:44
+get Item master list.php: Database connection established at 2024-05-28 11:56:44
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:56:44
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:56:44
+get Item master list.php: Script accessed at 2024-05-28 11:57:36
+get Item master list.php: Session username: usr at 2024-05-28 11:57:36
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:57:36
+get Item master list.php: db.php file included successfully at 2024-05-28 11:57:36
+get Item master list.php: Database connection established at 2024-05-28 11:57:36
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:57:36
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:57:36
+get Item master list.php: Script accessed at 2024-05-28 11:58:59
+get Item master list.php: Session username: usr at 2024-05-28 11:58:59
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:58:59
+get Item master list.php: db.php file included successfully at 2024-05-28 11:58:59
+get Item master list.php: Database connection established at 2024-05-28 11:58:59
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:58:59
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:58:59
+get Item master list.php: Script accessed at 2024-05-28 11:59:42
+get Item master list.php: Session username: usr at 2024-05-28 11:59:42
+get Item master list.php: Session user_id: 2 at 2024-05-28 11:59:42
+get Item master list.php: db.php file included successfully at 2024-05-28 11:59:42
+get Item master list.php: Database connection established at 2024-05-28 11:59:42
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 11:59:42
+get Item master list.php: Item list fetched successfully at 2024-05-28 11:59:42
+get Item master list.php: Script accessed at 2024-05-28 12:03:09
+get Item master list.php: Session username: usr at 2024-05-28 12:03:09
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:03:09
+get Item master list.php: db.php file included successfully at 2024-05-28 12:03:09
+get Item master list.php: Database connection established at 2024-05-28 12:03:10
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:03:10
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:03:10
+get Item master list.php: Script accessed at 2024-05-28 12:07:39
+get Item master list.php: Session username: usr at 2024-05-28 12:07:39
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:07:39
+get Item master list.php: db.php file included successfully at 2024-05-28 12:07:39
+get Item master list.php: Database connection established at 2024-05-28 12:07:39
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:07:39
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:07:39
+get Item master list.php: Script accessed at 2024-05-28 12:07:54
+get Item master list.php: Session username: usr at 2024-05-28 12:07:54
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:07:54
+get Item master list.php: db.php file included successfully at 2024-05-28 12:07:54
+get Item master list.php: Database connection established at 2024-05-28 12:07:54
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:07:54
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:07:54
+get Item master list.php: Script accessed at 2024-05-28 12:08:00
+get Item master list.php: Session username: usr at 2024-05-28 12:08:00
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:08:00
+get Item master list.php: db.php file included successfully at 2024-05-28 12:08:00
+get Item master list.php: Database connection established at 2024-05-28 12:08:00
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:08:00
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:08:00
+get Item master list.php: Script accessed at 2024-05-28 12:08:21
+get Item master list.php: Session username: usr at 2024-05-28 12:08:21
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:08:21
+get Item master list.php: db.php file included successfully at 2024-05-28 12:08:21
+get Item master list.php: Database connection established at 2024-05-28 12:08:21
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:08:21
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:08:21
+get Item master list.php: Script accessed at 2024-05-28 12:08:26
+get Item master list.php: Session username: usr at 2024-05-28 12:08:26
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:08:26
+get Item master list.php: db.php file included successfully at 2024-05-28 12:08:26
+get Item master list.php: Database connection established at 2024-05-28 12:08:26
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:08:26
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:08:26
+get Item master list.php: Script accessed at 2024-05-28 12:09:42
+get Item master list.php: Session username: usr at 2024-05-28 12:09:42
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:09:42
+get Item master list.php: db.php file included successfully at 2024-05-28 12:09:42
+get Item master list.php: Database connection established at 2024-05-28 12:09:42
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:09:42
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:09:42
+get Item master list.php: Script accessed at 2024-05-28 12:09:56
+get Item master list.php: Session username: usr at 2024-05-28 12:09:56
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:09:56
+get Item master list.php: db.php file included successfully at 2024-05-28 12:09:56
+get Item master list.php: Database connection established at 2024-05-28 12:09:57
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:09:57
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:09:57
+get Item master list.php: Script accessed at 2024-05-28 12:10:18
+get Item master list.php: Session username: usr at 2024-05-28 12:10:18
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:10:18
+get Item master list.php: db.php file included successfully at 2024-05-28 12:10:18
+get Item master list.php: Database connection established at 2024-05-28 12:10:19
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:10:19
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:10:19
+get Item master list.php: Script accessed at 2024-05-28 12:10:32
+get Item master list.php: Session username: usr at 2024-05-28 12:10:32
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:10:32
+get Item master list.php: db.php file included successfully at 2024-05-28 12:10:32
+get Item master list.php: Database connection established at 2024-05-28 12:10:33
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:10:33
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:10:33
+get Item master list.php: Script accessed at 2024-05-28 12:11:10
+get Item master list.php: Session username: usr at 2024-05-28 12:11:10
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:11:10
+get Item master list.php: db.php file included successfully at 2024-05-28 12:11:10
+get Item master list.php: Database connection established at 2024-05-28 12:11:10
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:11:10
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:11:10
+get Item master list.php: Script accessed at 2024-05-28 12:11:26
+get Item master list.php: Session username: usr at 2024-05-28 12:11:26
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:11:26
+get Item master list.php: db.php file included successfully at 2024-05-28 12:11:26
+get Item master list.php: Database connection established at 2024-05-28 12:11:26
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:11:26
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:11:26
+get Item master list.php: Script accessed at 2024-05-28 12:11:53
+get Item master list.php: Session username: usr at 2024-05-28 12:11:53
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:11:53
+get Item master list.php: db.php file included successfully at 2024-05-28 12:11:53
+get Item master list.php: Database connection established at 2024-05-28 12:11:54
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:11:54
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:11:54
+get Item master list.php: Script accessed at 2024-05-28 12:12:08
+get Item master list.php: Session username: usr at 2024-05-28 12:12:08
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:12:08
+get Item master list.php: db.php file included successfully at 2024-05-28 12:12:08
+get Item master list.php: Database connection established at 2024-05-28 12:12:08
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:12:08
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:12:08
+get Item master list.php: Script accessed at 2024-05-28 12:12:13
+get Item master list.php: Session username: usr at 2024-05-28 12:12:13
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:12:13
+get Item master list.php: db.php file included successfully at 2024-05-28 12:12:13
+get Item master list.php: Database connection established at 2024-05-28 12:12:13
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:12:13
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:12:13
+get Item master list.php: Script accessed at 2024-05-28 12:12:39
+get Item master list.php: Session username: usr at 2024-05-28 12:12:39
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:12:39
+get Item master list.php: db.php file included successfully at 2024-05-28 12:12:39
+get Item master list.php: Database connection established at 2024-05-28 12:12:39
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:12:39
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:12:39
+get Item master list.php: Script accessed at 2024-05-28 12:12:44
+get Item master list.php: Session username: usr at 2024-05-28 12:12:44
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:12:44
+get Item master list.php: db.php file included successfully at 2024-05-28 12:12:44
+get Item master list.php: Database connection established at 2024-05-28 12:12:44
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:12:44
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:12:44
+get Item master list.php: Script accessed at 2024-05-28 12:13:36
+get Item master list.php: Session username: usr at 2024-05-28 12:13:36
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:13:36
+get Item master list.php: db.php file included successfully at 2024-05-28 12:13:36
+get Item master list.php: Database connection established at 2024-05-28 12:13:36
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:13:36
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:13:36
+get Item master list.php: Script accessed at 2024-05-28 12:14:15
+get Item master list.php: Session username: usr at 2024-05-28 12:14:15
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:14:15
+get Item master list.php: db.php file included successfully at 2024-05-28 12:14:15
+get Item master list.php: Database connection established at 2024-05-28 12:14:16
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:14:16
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:14:16
+get Item master list.php: Script accessed at 2024-05-28 12:14:20
+get Item master list.php: Session username: usr at 2024-05-28 12:14:20
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:14:20
+get Item master list.php: db.php file included successfully at 2024-05-28 12:14:20
+get Item master list.php: Database connection established at 2024-05-28 12:14:20
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:14:20
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:14:20
+get Item master list.php: Script accessed at 2024-05-28 12:14:48
+get Item master list.php: Session username: usr at 2024-05-28 12:14:48
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:14:48
+get Item master list.php: db.php file included successfully at 2024-05-28 12:14:48
+get Item master list.php: Database connection established at 2024-05-28 12:14:48
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:14:48
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:14:48
+get Item master list.php: Script accessed at 2024-05-28 12:15:04
+get Item master list.php: Session username: usr at 2024-05-28 12:15:04
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:15:04
+get Item master list.php: db.php file included successfully at 2024-05-28 12:15:04
+get Item master list.php: Database connection established at 2024-05-28 12:15:05
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:15:05
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:15:05
+get Item master list.php: Script accessed at 2024-05-28 12:15:44
+get Item master list.php: Session username: usr at 2024-05-28 12:15:44
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:15:44
+get Item master list.php: db.php file included successfully at 2024-05-28 12:15:44
+get Item master list.php: Database connection established at 2024-05-28 12:15:44
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:15:44
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:15:44
+get Item master list.php: Script accessed at 2024-05-28 12:16:14
+get Item master list.php: Session username: usr at 2024-05-28 12:16:14
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:16:14
+get Item master list.php: db.php file included successfully at 2024-05-28 12:16:14
+get Item master list.php: Database connection established at 2024-05-28 12:16:15
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:16:15
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:16:15
+get Item master list.php: Script accessed at 2024-05-28 12:17:22
+get Item master list.php: Session username: usr at 2024-05-28 12:17:22
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:17:22
+get Item master list.php: db.php file included successfully at 2024-05-28 12:17:22
+get Item master list.php: Database connection established at 2024-05-28 12:17:22
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:17:23
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:17:23
+get Item master list.php: Script accessed at 2024-05-28 12:17:59
+get Item master list.php: Session username: usr at 2024-05-28 12:17:59
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:17:59
+get Item master list.php: db.php file included successfully at 2024-05-28 12:17:59
+get Item master list.php: Database connection established at 2024-05-28 12:17:59
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:18:00
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:18:00
+get Item master list.php: Script accessed at 2024-05-28 12:18:19
+get Item master list.php: Session username: usr at 2024-05-28 12:18:19
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:18:19
+get Item master list.php: db.php file included successfully at 2024-05-28 12:18:19
+get Item master list.php: Database connection established at 2024-05-28 12:18:20
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:18:20
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:18:20
+get Item master list.php: Script accessed at 2024-05-28 12:18:41
+get Item master list.php: Session username: usr at 2024-05-28 12:18:41
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:18:41
+get Item master list.php: db.php file included successfully at 2024-05-28 12:18:41
+get Item master list.php: Database connection established at 2024-05-28 12:18:41
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:18:41
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:18:41
+get Item master list.php: Script accessed at 2024-05-28 12:18:51
+get Item master list.php: Session username: usr at 2024-05-28 12:18:51
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:18:51
+get Item master list.php: db.php file included successfully at 2024-05-28 12:18:51
+get Item master list.php: Database connection established at 2024-05-28 12:18:51
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:18:51
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:18:51
+get Item master list.php: Script accessed at 2024-05-28 12:19:04
+get Item master list.php: Session username: usr at 2024-05-28 12:19:04
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:19:04
+get Item master list.php: db.php file included successfully at 2024-05-28 12:19:04
+get Item master list.php: Database connection established at 2024-05-28 12:19:04
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:19:04
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:19:04
+get Item master list.php: Script accessed at 2024-05-28 12:19:36
+get Item master list.php: Session username: usr at 2024-05-28 12:19:36
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:19:36
+get Item master list.php: db.php file included successfully at 2024-05-28 12:19:36
+get Item master list.php: Database connection established at 2024-05-28 12:19:36
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:19:36
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:19:36
+get Item master list.php: Script accessed at 2024-05-28 12:19:45
+get Item master list.php: Session username: usr at 2024-05-28 12:19:45
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:19:45
+get Item master list.php: db.php file included successfully at 2024-05-28 12:19:45
+get Item master list.php: Database connection established at 2024-05-28 12:19:46
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:19:46
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:19:46
+get Item master list.php: Script accessed at 2024-05-28 12:20:07
+get Item master list.php: Session username: usr at 2024-05-28 12:20:07
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:20:07
+get Item master list.php: db.php file included successfully at 2024-05-28 12:20:07
+get Item master list.php: Database connection established at 2024-05-28 12:20:07
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:20:07
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:20:07
+get Item master list.php: Script accessed at 2024-05-28 12:20:17
+get Item master list.php: Session username: usr at 2024-05-28 12:20:17
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:20:17
+get Item master list.php: db.php file included successfully at 2024-05-28 12:20:17
+get Item master list.php: Database connection established at 2024-05-28 12:20:17
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:20:17
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:20:17
+get Item master list.php: Script accessed at 2024-05-28 12:21:09
+get Item master list.php: Session username: usr at 2024-05-28 12:21:09
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:21:09
+get Item master list.php: db.php file included successfully at 2024-05-28 12:21:09
+get Item master list.php: Database connection established at 2024-05-28 12:21:09
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:21:09
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:21:09
+get Item master list.php: Script accessed at 2024-05-28 12:22:11
+get Item master list.php: Session username: usr at 2024-05-28 12:22:11
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:22:11
+get Item master list.php: db.php file included successfully at 2024-05-28 12:22:11
+get Item master list.php: Database connection established at 2024-05-28 12:22:11
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:22:11
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:22:11
+get Item master list.php: Script accessed at 2024-05-28 12:22:22
+get Item master list.php: Session username: usr at 2024-05-28 12:22:22
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:22:22
+get Item master list.php: db.php file included successfully at 2024-05-28 12:22:22
+get Item master list.php: Database connection established at 2024-05-28 12:22:23
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:22:23
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:22:23
+get Item master list.php: Script accessed at 2024-05-28 12:23:57
+get Item master list.php: Session username: usr at 2024-05-28 12:23:57
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:23:57
+get Item master list.php: db.php file included successfully at 2024-05-28 12:23:57
+get Item master list.php: Database connection established at 2024-05-28 12:23:58
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:23:58
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:23:58
+get Item master list.php: Script accessed at 2024-05-28 12:25:06
+get Item master list.php: Session username: usr at 2024-05-28 12:25:06
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:25:06
+get Item master list.php: db.php file included successfully at 2024-05-28 12:25:06
+get Item master list.php: Database connection established at 2024-05-28 12:25:07
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:25:07
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:25:07
+get Item master list.php: Script accessed at 2024-05-28 12:27:14
+get Item master list.php: Session username: usr at 2024-05-28 12:27:14
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:27:14
+get Item master list.php: db.php file included successfully at 2024-05-28 12:27:14
+get Item master list.php: Database connection established at 2024-05-28 12:27:14
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:27:15
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:27:15
+get Item master list.php: Script accessed at 2024-05-28 12:28:00
+get Item master list.php: Session username: usr at 2024-05-28 12:28:00
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:28:00
+get Item master list.php: db.php file included successfully at 2024-05-28 12:28:00
+get Item master list.php: Database connection established at 2024-05-28 12:28:01
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:28:01
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:28:01
+get Item master list.php: Script accessed at 2024-05-28 12:28:38
+get Item master list.php: Session username: usr at 2024-05-28 12:28:38
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:28:38
+get Item master list.php: db.php file included successfully at 2024-05-28 12:28:38
+get Item master list.php: Database connection established at 2024-05-28 12:28:38
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:28:38
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:28:38
+get Item master list.php: Script accessed at 2024-05-28 12:31:14
+get Item master list.php: Session username: usr at 2024-05-28 12:31:14
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:31:14
+get Item master list.php: db.php file included successfully at 2024-05-28 12:31:14
+get Item master list.php: Database connection established at 2024-05-28 12:31:15
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:31:15
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:31:15
+get Item master list.php: Script accessed at 2024-05-28 12:31:59
+get Item master list.php: Session username: usr at 2024-05-28 12:31:59
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:31:59
+get Item master list.php: db.php file included successfully at 2024-05-28 12:31:59
+get Item master list.php: Database connection established at 2024-05-28 12:31:59
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:31:59
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:31:59
+get Item master list.php: Script accessed at 2024-05-28 12:32:08
+get Item master list.php: Session username: usr at 2024-05-28 12:32:08
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:32:08
+get Item master list.php: db.php file included successfully at 2024-05-28 12:32:08
+get Item master list.php: Database connection established at 2024-05-28 12:32:08
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:32:08
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:32:08
+get Item master list.php: Script accessed at 2024-05-28 12:32:18
+get Item master list.php: Session username: usr at 2024-05-28 12:32:18
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:32:18
+get Item master list.php: db.php file included successfully at 2024-05-28 12:32:18
+get Item master list.php: Database connection established at 2024-05-28 12:32:18
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:32:18
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:32:18
+get Item master list.php: Script accessed at 2024-05-28 12:32:59
+get Item master list.php: Session username: usr at 2024-05-28 12:32:59
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:32:59
+get Item master list.php: db.php file included successfully at 2024-05-28 12:32:59
+get Item master list.php: Database connection established at 2024-05-28 12:32:59
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:32:59
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:32:59
+get Item master list.php: Script accessed at 2024-05-28 12:36:26
+get Item master list.php: Session username: usr at 2024-05-28 12:36:26
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:36:26
+get Item master list.php: db.php file included successfully at 2024-05-28 12:36:26
+get Item master list.php: Database connection established at 2024-05-28 12:36:26
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:36:26
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:36:26
+get Item master list.php: Script accessed at 2024-05-28 12:39:31
+get Item master list.php: Session username: usr at 2024-05-28 12:39:31
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:39:31
+get Item master list.php: db.php file included successfully at 2024-05-28 12:39:31
+get Item master list.php: Database connection established at 2024-05-28 12:39:31
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:39:31
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:39:31
+get Item master list.php: Script accessed at 2024-05-28 12:41:23
+get Item master list.php: Session username: usr at 2024-05-28 12:41:23
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:41:23
+get Item master list.php: db.php file included successfully at 2024-05-28 12:41:23
+get Item master list.php: Database connection established at 2024-05-28 12:41:23
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:41:23
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:41:23
+get Item master list.php: Script accessed at 2024-05-28 12:42:17
+get Item master list.php: Session username: usr at 2024-05-28 12:42:17
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:42:17
+get Item master list.php: db.php file included successfully at 2024-05-28 12:42:17
+get Item master list.php: Database connection established at 2024-05-28 12:42:17
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:42:17
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:42:17
+get Item master list.php: Script accessed at 2024-05-28 12:42:59
+get Item master list.php: Session username: usr at 2024-05-28 12:42:59
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:42:59
+get Item master list.php: db.php file included successfully at 2024-05-28 12:42:59
+get Item master list.php: Database connection established at 2024-05-28 12:43:00
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:43:00
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:43:00
+get Item master list.php: Script accessed at 2024-05-28 12:43:07
+get Item master list.php: Session username: usr at 2024-05-28 12:43:07
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:43:07
+get Item master list.php: db.php file included successfully at 2024-05-28 12:43:07
+get Item master list.php: Database connection established at 2024-05-28 12:43:07
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:43:07
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:43:07
+get Item master list.php: Script accessed at 2024-05-28 12:43:38
+get Item master list.php: Session username: usr at 2024-05-28 12:43:38
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:43:38
+get Item master list.php: db.php file included successfully at 2024-05-28 12:43:38
+get Item master list.php: Database connection established at 2024-05-28 12:43:38
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:43:38
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:43:38
+get Item master list.php: Script accessed at 2024-05-28 12:43:46
+get Item master list.php: Session username: usr at 2024-05-28 12:43:46
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:43:46
+get Item master list.php: db.php file included successfully at 2024-05-28 12:43:46
+get Item master list.php: Database connection established at 2024-05-28 12:43:46
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:43:46
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:43:46
+get Item master list.php: Script accessed at 2024-05-28 12:45:25
+get Item master list.php: Session username: usr at 2024-05-28 12:45:25
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:45:25
+get Item master list.php: db.php file included successfully at 2024-05-28 12:45:25
+get Item master list.php: Database connection established at 2024-05-28 12:45:26
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:45:26
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:45:26
+get Item master list.php: Script accessed at 2024-05-28 12:46:47
+get Item master list.php: Session username: usr at 2024-05-28 12:46:47
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:46:47
+get Item master list.php: db.php file included successfully at 2024-05-28 12:46:47
+get Item master list.php: Database connection established at 2024-05-28 12:46:47
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:46:48
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:46:48
+get Item master list.php: Script accessed at 2024-05-28 12:46:51
+get Item master list.php: Session username: usr at 2024-05-28 12:46:51
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:46:51
+get Item master list.php: db.php file included successfully at 2024-05-28 12:46:51
+get Item master list.php: Database connection established at 2024-05-28 12:46:51
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:46:52
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:46:52
+get Item master list.php: Script accessed at 2024-05-28 12:47:22
+get Item master list.php: Session username: usr at 2024-05-28 12:47:22
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:47:22
+get Item master list.php: db.php file included successfully at 2024-05-28 12:47:22
+get Item master list.php: Database connection established at 2024-05-28 12:47:22
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:47:22
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:47:22
+get Item master list.php: Script accessed at 2024-05-28 12:49:08
+get Item master list.php: Session username: usr at 2024-05-28 12:49:08
+get Item master list.php: Session user_id: 2 at 2024-05-28 12:49:08
+get Item master list.php: db.php file included successfully at 2024-05-28 12:49:08
+get Item master list.php: Database connection established at 2024-05-28 12:49:08
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 12:49:08
+get Item master list.php: Item list fetched successfully at 2024-05-28 12:49:08
+get Item master list.php: Script accessed at 2024-05-28 13:07:45
+get Item master list.php: Session username: usr at 2024-05-28 13:07:45
+get Item master list.php: Session user_id: 2 at 2024-05-28 13:07:45
+get Item master list.php: db.php file included successfully at 2024-05-28 13:07:45
+get Item master list.php: Database connection established at 2024-05-28 13:07:45
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 13:07:45
+get Item master list.php: Item list fetched successfully at 2024-05-28 13:07:45

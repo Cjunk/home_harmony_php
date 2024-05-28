@@ -1,0 +1,89 @@
+/* Style the dropdown button */
+:root {
+  --navbar-background-color: white;
+  /* --menu-background-clr:#4caf50; */
+  /* --menu-background-clr-hover:#b7ecb9; */
+  --menu-txt-clr: rgb(199, 20, 20);
+
+  --the-list-background-clr: rgb(212, 106, 106);
+  --menu-items-txt-clr: rgb(15, 7, 7);
+  --the-list-background-clr-hover: rgb(241, 236, 236);
+  --the-list-txt-clr-hover: rgb(122, 6, 6);
+
+  --menu-item-border-bottom: rgb(243, 235, 235);
+}
+.navigation-menu {
+  background: var(--navbar-background-color);
+  position: sticky;
+  top: 0;
+  box-shadow: 0px 08px 2px 0px rgba(0, 0, 0, 0.2);
+  margin: 0;
+  padding: 0;
+
+  align-items: center;
+}
+
+.dropbtn {
+  background-color: var(--menu-background-clr);
+  color: var(--menu-txt-clr);
+  padding-top: 15%;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+.dropbtn:hover {
+  background-color: var(--menu-background-clr-hover);
+  color: green;
+}
+
+/* Dropdown container */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  height: 100%;
+}
+
+/* Dropdown content */
+.dropdown-content {
+  visibility: hidden; /* Initially hide the dropdown */
+  position: absolute;
+  opacity: 0; /* Start fully transparent */
+  background-color: var(--the-list-background-clr);
+  min-width: 2px;
+  box-shadow: 0px 8px 16px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  z-index: 1;
+  top: 100%; /* This ensures it starts right at the bottom of the button */
+  margin: 0;
+  padding: 0;
+  transition: opacity 0.5s ease, visibility 0s 0.5s; /* Transition for opacity */
+  text-align: left;
+  /* width:auto; */
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: var(--menu-items-txt-clr);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  border-bottom: solid 1px var(--menu-item-border-bottom);
+  font-size: 14px;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+  visibility: visible; /* Make dropdown visible on hover */
+  opacity: 1; /* Fade to fully opaque */
+  transition-delay: 0s; /* Apply transition delay for visibility immediately */
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: var(--the-list-background-clr-hover);
+  color: var(--the-list-txt-clr-hover);
+}
+.the-list li {
+  list-style-type: none;
+}

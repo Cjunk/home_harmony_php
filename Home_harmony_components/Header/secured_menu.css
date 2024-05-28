@@ -1,0 +1,69 @@
+.menu_list {
+  background-color: rgb(17, 4, 136);
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.menu_style {
+  list-style: none;
+  display: flex;
+  color: white;
+  font-size: 14px;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.menu_style li {
+  position: relative;
+  padding-right: 25px;
+}
+
+.menu_style li:hover {
+  cursor: pointer;
+  color: red;
+}
+
+.dropdown_menu {
+  display: none;
+  position: absolute;
+  background-color: white;
+  color: black;
+  list-style: none;
+  padding: 1px;
+  margin: 0;
+  top: 100%;
+  left: 0;
+  min-width: 100px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  
+}
+
+.menu_style li:hover .dropdown_menu {
+  display: block;
+}
+
+.dropdown_menu li {
+  padding: 6px 2px;
+}
+
+.dropdown_menu li:hover {
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+
+.log-out-button {
+  background-color: blue;
+  color: white;
+  font-size: 14px;
+  margin-left: auto;
+  padding: 5px 10px;
+}
+
+.log-out-button:hover {
+  cursor: pointer;
+  background-color: rgb(18, 18, 131);
+}

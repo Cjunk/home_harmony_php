@@ -1,0 +1,25 @@
+{
+  "files.exclude": {
+    "**/.git": false,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "COMPONENTS": false,
+    "MY REPOS": true,
+    "PRACTISE": true,
+    "PROJECTS": true,
+    "static": true,
+    "vendor": true,
+    "HOME HOSTED WEBSITE": true,
+    "**/*.bat": true,
+    "composer.json": true,
+    "composer": true,
+    "composer.lock": true,
+    "composer.phar": true,
+    ".vscode": true,
+    "vid2.mp4": true
+  },
+  "explorerExclude.backup": {}
+}

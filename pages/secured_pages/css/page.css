@@ -1,0 +1,67 @@
+/* This style file is to ensure consistency between the page content for Home harmony 
+Written by Jericho Sharman 2024
+
+*/
+
+:root {
+  --content-background-clr:linear-gradient(rgb(154, 154, 250), rgb(215, 223, 194));
+  --title-background-clr:rgb(28, 32, 90);
+  --page-title-bottom-border-clr:grey solid 1px;
+  --page-title-box-shadow:1px 1px 22px black;
+}
+
+html, body {
+    overflow-x: hidden;
+    overscroll-behavior-x: none; /* Prevents overscroll behavior on x-axis */
+}
+.page_container{
+  width:100%;
+}
+.page-content{
+  width:100%;
+  margin-top:30px;
+}
+.page_section {
+  background-image: var(--content-background-clr);
+  color: white;
+  z-index: 1;
+  overflow-y: scroll; /* Forces scrollbar to appear */
+}
+
+.page-title {
+  background-color: var(--title-background-clr);
+  /* background-color: rgb(25, 11, 150); */
+  position: fixed;
+  font-size: 12px;
+  width: 100%;
+  height: auto;
+  color: white;
+  border-bottom: var(--page-title-bottom-border-clr);
+  box-shadow: var(--page-title-box-shadow);
+	align-items:center;
+	display:flex;
+  justify-content: center;
+}
+.page-title  > h1 {
+  font-size: 1.2rem;
+  margin:0;
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+  .page-title {
+  background-color: rgb(175, 59, 117);
+  /* background-color: rgb(25, 11, 150); */
+  position: fixed;
+  font-size: 12px;
+  width: 100%;
+  height: auto;
+  z-index: 1500;
+  color: white;
+  border-bottom: 1px grey solid;
+  box-shadow: 1px 1px 22px black;
+	align-items:center;
+
+	display:flex;
+  justify-content: center;
+}
+}

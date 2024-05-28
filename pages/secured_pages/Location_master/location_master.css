@@ -1,0 +1,19 @@
+.location_list_items {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    color: rgb(48, 5, 5);
+    cursor: pointer;
+    border-bottom: 1px solid black;
+    align-items: center; /* Center items vertically */
+    padding:10px;
+
+}
+.location_list_items p {
+    margin: 0; /* Remove default margin from p elements */
+    display: flex;
+    align-items: center; /* Center content vertically within the p element */
+    height: 100%; /* Ensure p elements take full height of the li element */
+}
+.location_list_items:hover{
+  background-color:grey;
+}

@@ -1,0 +1,23 @@
+
+<div class="login-container">  
+    <div class="container mt-5 login-frm-bckgrnd">
+        <h2>Login</h2>
+        <p id="datetime" class="action-clr">Loading date and time...</p>
+        <form action="./php/login.php" method="POST">
+            <div class="mb-3">
+                <label for="Email" class="form-label">Email</label>
+                <input type="text" class="form-control" id="email" name="email" required />
+            </div>
+            <div class="mb-3">
+                <label for="Password" class="form-label">Password</label>
+                <input type="password" class="form-control" id="password-login" name="password" required />
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <a  onclick="toggleSections()" class="btn btn-secondary">Register</a> <!-- Link to a registration page -->
+        </form>
+            <!-- Forgot Password Link -->
+    <div class="mt-2">
+        <a href="./forgot_password.html">Forgot Password?</a>
+    </div>
+    </div>
+</div>
