@@ -1,0 +1,144 @@
+:root {
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Ensures padding doesn't affect overall width/height */
+}
+
+body,
+html {
+  height: 100%; /* Full height to contain the fixed and scrolling elements */
+  font-family: Arial, sans-serif; /* Consistent font for readability */
+}
+section {
+  width: 100%;
+  height: 100vh;
+}
+.navbar {
+  background-color: rgb(255, 0, 106);
+  width: 100%;
+  height: 100px; /* Matching the banner's height */
+  position: fixed;
+  bottom: 0; /* Starts at the bottom of the initial viewport */
+  z-index: 3; /* Above the banner when it scrolls */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: bottom 0.5s; /* Smooth transition for demo purposes if needed */
+}
+.banner {
+  background-color: purple;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh; /* Adjust height as necessary, previously was 100vh which is the full height of the viewport */
+  z-index: 0; /* Lower z-index so content can scroll over the banner */
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  background-image: url("IMG_1731.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.section1 {
+  background-color: blue; /* Default background color (blue for .section1 and overwritten for .section2) */
+  scroll-margin-top: 0px;
+  position: relative;
+  height: 50vh; /* Extra height to allow scrolling */
+  z-index: 2; /* Below the banner */
+  top: 100vh;
+  transition: top 0.3s ease-out; /* Smooth transition for the top property */
+  background-image: url("IMG_1727.JPG");
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: cover;
+  width: 100%;
+  border-top-right-radius: 35px;
+  border-top-left-radius: 35px;
+}
+.section2 {
+  background-color: green;
+  position: relative;
+  height: 100vh; /* Extra height to allow scrolling */
+  z-index: 1; /* Below the banner */
+ padding:10px;
+  top: 100vh;
+}
+.section1,
+.section2 {
+  position: relative;
+  width: 100%;
+  scroll-snap-align: start;
+  z-index: 2; /* Above the banner */
+  opacity: 1; /* Start fully transparent */
+  transition: opacity 2s ease-out; /* Smooth transition for opacity */
+}
+.footer {
+  background-color: orange;
+  width: 100%;
+  height: 50px; /* Matching the banner's height */
+  position: fixed;
+  bottom: 0; /* Starts at the bottom of the initial viewport */
+  z-index: 3000; /* Above the banner when it scrolls */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: bottom 0.5s; /* Smooth transition for demo purposes if needed */
+}
+.appear {
+  opacity: 1; /* Fully opaque */
+}
+#side-panel {
+  position: fixed;
+  top: 0;
+  left: -250px; /* Hide side panel by default */
+  width: 250px;
+  height: 100%;
+  background-color: red;
+  background: #d16161;
+  color: white;
+  transition: left 1s; /* Smooth transition for side panel */
+  z-index: 1000;
+}
+/* Ensure side panel slides in smoothly */
+.side-panel {
+  transition: left 0.3s;
+  z-index: 1050; /* Make sure it's on top */
+}
+.active {
+  left: 0 !important;
+}
+/* Placeholder for the side panel trigger area */
+.side-panel-place-holder {
+  height: 100vh;
+  position: fixed;
+  z-index: 1050; /* Ensure it's above most other content */
+  background-color:red;
+}
+.side-panel-content {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-around;
+  margin: 5px;
+}
+.side-panel-content > a {
+  flex-grow: 1; /* Allows each link to fill space evenly */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.panal1-button{
+    background-color:green;
+}
+

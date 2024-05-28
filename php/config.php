@@ -9,3 +9,7 @@ function debug_log($message)
     file_put_contents('debug_log.txt', $message . "\n", FILE_APPEND);
   }
 }
+
+define('DB_PASSWORD', 'Quest35#Scrap35#');
+
+

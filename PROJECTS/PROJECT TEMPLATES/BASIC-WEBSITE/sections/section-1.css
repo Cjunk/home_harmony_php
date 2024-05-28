@@ -1,0 +1,205 @@
+/* Variables */
+:root {
+  --primary-color: #0d09ee;
+  --secondary-color: #ffa500;
+}
+/* Section 1 */
+#section-1 {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  z-index: -1;
+  flex-direction: column;
+}
+.section-1-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-image: url("../media/section-1-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.section-1-container {
+  position: relative;
+  top: 50px;
+  left: 0;
+  width: auto;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  color: black;
+}
+
+.welcome-title {
+  position: fixed;
+  font-family: "Luckiest Guy", cursive;
+  font-size: 4rem;
+  color: var(--primary-color);
+  text-shadow: 1px 8px 2px var(--secondary-color);
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 5px;
+  margin-top: 20px;
+}
+
+.info-box {
+  background-color: #fff0f6;
+  width: 50%;
+  margin: 20px 0;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+}
+
+.welcome-title {
+  pointer-events: none;
+}
+.image-row-wrapper {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.image-row {
+  width: 200%;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  z-index: 30;
+  white-space: nowrap;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  animation: ticker 90s linear infinite;
+  cursor: pointer;
+}
+
+.image-row img {
+  height: 80px;
+  width: auto;
+  margin: 0 5px;
+  display: inline-block;
+  vertical-align: middle;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.image-row::-webkit-scrollbar {
+  height: 5px;
+}
+
+.image-row::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.image-row::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+.image-row::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Modal */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 5000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  align-items: center;
+  justify-content: center;
+  overflow: auto;
+}
+
+/* Modal Content */
+.modal-content {
+  background: #949090;
+  border-radius: 8px;
+  width: auto;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.modal-content img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+/* Caption */
+#caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Close Button */
+.close {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  z-index: 102;
+  cursor: pointer;
+  text-shadow: 0 1px 0 #000;
+  opacity: 1;
+}
+
+.close:hover,
+.close:focus {
+  color: #ccc;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Animation */
+@keyframes ticker {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-100% / 2));
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .section-1-bg,
+  .section-1-container {
+    background-size: cover;
+    height: 60vh;
+    font-size: 2.5rem;
+  }
+
+  .modal-content {
+    max-width: 95%;
+    padding: 10px;
+  }
+
+  .modal-content img {
+    max-height: 65vh;
+  }
+}
