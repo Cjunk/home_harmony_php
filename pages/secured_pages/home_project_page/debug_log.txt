@@ -726,3 +726,17 @@ get Item master list.php: db.php file included successfully at 2024-05-28 14:23:
 get Item master list.php: Database connection established at 2024-05-28 14:23:03
 get Item master list.php: Executed SELECT statement result: true at 2024-05-28 14:23:03
 get Item master list.php: Item list fetched successfully at 2024-05-28 14:23:03
+get Item master list.php: Script accessed at 2024-05-28 14:43:04
+get Item master list.php: Session username: usr at 2024-05-28 14:43:04
+get Item master list.php: Session user_id: 2 at 2024-05-28 14:43:04
+get Item master list.php: db.php file included successfully at 2024-05-28 14:43:04
+get Item master list.php: Database connection established at 2024-05-28 14:43:04
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 14:43:04
+get Item master list.php: Item list fetched successfully at 2024-05-28 14:43:04
+get Item master list.php: Script accessed at 2024-05-28 14:43:14
+get Item master list.php: Session username: usr at 2024-05-28 14:43:14
+get Item master list.php: Session user_id: 2 at 2024-05-28 14:43:14
+get Item master list.php: db.php file included successfully at 2024-05-28 14:43:14
+get Item master list.php: Database connection established at 2024-05-28 14:43:14
+get Item master list.php: Executed SELECT statement result: true at 2024-05-28 14:43:14
+get Item master list.php: Item list fetched successfully at 2024-05-28 14:43:14
