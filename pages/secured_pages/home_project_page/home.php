@@ -8,6 +8,7 @@
   ?>
   <!DOCTYPE html>
   <html lang="en">
+
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -15,6 +16,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" />
     <title>Home Harmony Welcome <?php echo $_SESSION['page_number'] ?></title>
   </head>
+
   <body>
     <?php
     include("../../../Home_harmony_components/Header/header.php");
@@ -25,11 +27,19 @@
       case 2:
         include '../projects/projects.php';
         break;
-      case 6:
+      case 4:
+        include '../item_Master/item_master.php';
+        break;        
+      case 5:
         include '../location_master/location_master.php';
         break;
-      case 3:
-        include '../item_Master/item_master.php';
+      case 6:
+        include '../statistics_page/stats.php';
+        break;
+      case 7:
+        echo "<script type='text/javascript'>
+                    window.open('http://112.141.11.237/MY%20REPOS/TODO_LIST/build/', '_blank');
+                  </script>";
         break;
       default:
         include '../template/template.php';

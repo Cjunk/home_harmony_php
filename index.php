@@ -63,7 +63,7 @@ if (isset($_SESSION['username'])) {
     <section id="login-section" class="sections section2 ">
       <?php
       // Include the login page HTML
-      include './pages/insecured/login.html'
+      include './pages/insecured/login.html';
       ?>
     </section>
 
@@ -71,7 +71,7 @@ if (isset($_SESSION['username'])) {
     <section id="register-section" class="sections section2  not-active">
       <?php
       // Include the registration page HTML
-      include './pages/insecured/register.html'
+      include './pages/insecured/register.html';
       ?>
     </section>
   </div>

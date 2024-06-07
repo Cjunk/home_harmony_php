@@ -1,27 +1,29 @@
 <?php
 // Enable error reporting for development
+require_once './config.php';
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 require '../vendor/autoload.php';  // Load Composer's autoloader
-require_once './config.php';
+
 $password = DB_PASSWORD;
 include '../pages/secured_pages/php/db.php';
 $conn = Database::getInstance();
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
+
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $username = $_POST['username'];
   $email = $_POST['email-register'];
   $password = password_hash($_POST['password'], PASSWORD_DEFAULT); // Encrypting the password
 
   // Store user in the database (make sure to handle this safely with prepared statements)
-  $sql = "INSERT INTO users (user_username, user_email, user_hashed_pwd) VALUES (?, ?, ?)";
-  $stmt = $conn->prepare($sql);
-  $stmt->bindParam(1, $username);
-  $stmt->bindParam(2, $email);
-  $stmt->bindParam(3, $password);
-  $stmt->execute();
+  $stats_item_distribution = "INSERT INTO users (user_username, user_email, user_hashed_pwd) VALUES (?, ?, ?)";
+  $stmt1 = $conn->prepare($stats_item_distribution);
+  $stmt1->bindParam(1, $username);
+  $stmt1->bindParam(2, $email);
+  $stmt1->bindParam(3, $password);
+  $stmt1->execute();
 
   $mail = new PHPMailer(true);
   try {

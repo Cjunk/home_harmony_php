@@ -2,8 +2,8 @@
 
 
 <?php
-  session_start();
-  if (!isset($_SESSION['username'])) {
+  // session_start();
+  if (!isset($_SESSION['user_id'])) {
     // If the session variables are not set, redirect to login page
     header('Location:../../../index.php');
     exit();

@@ -11,7 +11,7 @@ if (!isset($_SESSION['username'])) {
 <h1> AM HERE 2</h1>
 <?php
 include '../php/events_conn.php';
-$stmt = $conn->prepare("INSERT INTO todo (title,description,to_be_completed_by,ownerID) VALUES (?,?,?,?)");
+$stmt1 = $conn->prepare("INSERT INTO todo (title,description,to_be_completed_by,ownerID) VALUES (?,?,?,?)");
 // Collecting user input
 $title = $_POST['title']; // Assuming input validation and sanitization elsewhere
 $description = $_POST['description'];
@@ -22,14 +22,14 @@ $to_be_completed_by = date('Y-m-d H:i:s', strtotime($to_be_completed_by));
 
 $ownerID = $_SESSION['user_id'];
 
-$stmt->bind_param("sssi", $title, $description, $to_be_completed_by, $ownerID);
+$stmt1->bind_param("sssi", $title, $description, $to_be_completed_by, $ownerID);
 
-$stmt->execute();
+$stmt1->execute();
 // Optional: Check for successful insertion
-if ($stmt->affected_rows > 0) {
+if ($stmt1->affected_rows > 0) {
   echo "Record added successfully.";
 } else {
-  echo "Error adding record: " . $stmt->error;
+  echo "Error adding record: " . $stmt1->error;
 }
 header('Location: ../../index.php');
 exit(); // Don't forget to call exit() after header()

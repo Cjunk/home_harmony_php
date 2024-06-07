@@ -1,6 +1,6 @@
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <link href="../components/item_master_row.css" rel="stylesheet">
-
+  <link href="../components/globalcss.css" rel="stylesheet">
   <?php foreach ($_SESSION['ITEM_MASTER'] as $row) :
     $original_url = $row['item_prime_photo'];
     $transformed_url = preg_replace(

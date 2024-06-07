@@ -1,0 +1,104 @@
+<script defer src="../../../Home_harmony_components/Header/secured_menu.js"></script>
+<style>
+  .menu_list {
+  background-color: rgb(17, 4, 136);
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.menu_style {
+  list-style: none;
+  display: flex;
+  color: white;
+  font-size: 14px;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.menu_style li {
+  position: relative;
+  padding-right: 25px;
+}
+
+.menu_style li:hover {
+  cursor: pointer;
+  color: red;
+}
+
+.dropdown_menu {
+  display: none;
+  position: absolute;
+  background-color: white;
+  color: black;
+  list-style: none;
+  padding: 1px;
+  margin: 0;
+  top: 100%;
+  left: 0;
+  min-width: 100px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  
+}
+
+.menu_style li:hover .dropdown_menu {
+  display: block;
+}
+
+.dropdown_menu li {
+  padding: 6px 2px;
+}
+
+.dropdown_menu li:hover {
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+
+.log-out-button {
+  background-color: blue;
+  color: white;
+  font-size: 14px;
+  margin-left: auto;
+  padding: 5px 10px;
+}
+
+.log-out-button:hover {
+  cursor: pointer;
+  background-color: rgb(18, 18, 131);
+}
+</style>
+<div class="menu_list">
+  <div>
+    <ul class="menu_style">
+      <li>
+        Stock Control
+        <ul class="dropdown_menu">
+          <li data-page-number="6">Stats</li>
+          <li data-page-number="1">Stock on Hand</li>
+          <li data-page-number="3">EMPTY 3</li>
+        </ul>
+      </li>
+      <li>
+        Master List
+        <ul class="dropdown_menu">
+          <li data-page-number="4">Item Master</li>
+          <li data-page-number="5">Location Master</li>
+        </ul>
+      </li>
+      <li>
+        menu 3
+        <ul class="dropdown_menu">
+          <li data-page-number="2">Projects</li>
+          <li data-page-number="7">TODO LIST</li>
+          <li data-page-number="8">EMPTY 8</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <form action="../../../php/logout.php" method="post" style="height: auto">
+    <button type="submit" class="log-out-button">Log Out</button>
+  </form>
+</div>

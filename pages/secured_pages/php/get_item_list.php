@@ -30,19 +30,19 @@ $conn = Database::getInstance();
 debug_log("$fileName Database connection established at " . date('Y-m-d H:i:s'));
 //=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 // Fetch data from the database
-$stmt = $conn->prepare("SELECT * FROM ITEM_MASTER WHERE userID = ?");
-$executeResult = $stmt->execute([$_SESSION['user_id']]);
+$stmt1 = $conn->prepare("SELECT * FROM ITEM_MASTER WHERE userID = ?");
+$executeResult = $stmt1->execute([$_SESSION['user_id']]);
 debug_log("$fileName Executed SELECT statement result: " . json_encode($executeResult) . " at " . date('Y-m-d H:i:s'));
 
 if ($executeResult) {
-  $items = $stmt->fetchAll(PDO::FETCH_ASSOC);
+  $items = $stmt1->fetchAll(PDO::FETCH_ASSOC);
   $_SESSION['ITEM_MASTER'] = $items; // Store the fetched data in session variables 
   $response['success'] = true;
   $response['message'] = 'Item list fetched successfully';
   debug_log("$fileName Item list fetched successfully at " . date('Y-m-d H:i:s'));
 } else {
-  $response['message'] = 'Failed to fetch item list. Error: ' . htmlspecialchars($stmt->errorInfo()[2]);
-  debug_log("$fileName Failed to fetch item list. Error: " . htmlspecialchars($stmt->errorInfo()[2]) . " at " . date('Y-m-d H:i:s'));
+  $response['message'] = 'Failed to fetch item list. Error: ' . htmlspecialchars($stmt1->errorInfo()[2]);
+  debug_log("$fileName Failed to fetch item list. Error: " . htmlspecialchars($stmt1->errorInfo()[2]) . " at " . date('Y-m-d H:i:s'));
 }
 
 // // Return JSON response

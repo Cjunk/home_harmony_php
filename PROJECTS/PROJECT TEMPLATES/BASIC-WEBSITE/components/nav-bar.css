@@ -1,0 +1,36 @@
+.navbar {
+  color: white;  /* Ensures text is white for better visibility */
+}
+
+.navbar-dark .navbar-brand,
+.navbar-dark .nav-link,
+.navbar-dark .navbar-text {
+  color: white; /* White text for all nav items */
+}
+
+.navbar-dark .nav-link:hover,
+.navbar-dark .nav-link:focus {
+  color: #ffcccb; /* Lighter shade for hover states */
+}
+
+.navbar-dark .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.1); /* Lighter border for the toggle button */
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=UTF8,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  /* Custom SVG for the toggle icon */
+}
+
+/* Style adjustments for the social media icons */
+.nav-icon {
+  color: white;
+  margin: 0 10px; /* Space out the social media icons */
+  font-size: 20px; /* Larger icons for better visibility */
+}
+
+.nav-icon:hover {
+  color: #ffb3b3; /* Light pink for hover state on icons */
+}
+
+

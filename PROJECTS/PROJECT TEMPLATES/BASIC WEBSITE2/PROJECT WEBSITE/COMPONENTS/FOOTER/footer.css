@@ -1,0 +1,32 @@
+.site-footer {
+  width: 100%;
+  padding: 1em 0;
+  background-color: #222;  /* Dark background for the footer */
+  color: #fff;  /* White text color */
+  text-align: center;  /* Centering the text */
+  z-index:1500;
+}
+
+.site-footer .container {
+  display: flex;
+  justify-content: space-around;  /* Space out the website link and social media links */
+  align-items: center;
+  z-index:1500;
+}
+
+.footer-link, .social-link {
+  color: #fff;  /* White text for links */
+  text-decoration: none;  /* No underline */
+  margin: 0 10px;
+}
+.social-link {
+  color: white;  /* Example color */
+  margin: 0 10px;
+  transition: color 0.3s ease; /* Smooth transition for hover effect */
+}
+.social-link:hover, .social-link:focus {
+  color: #cccccc; /* Lighter shade on hover */
+}
+.social-link i {
+  font-size: 1.5em;  /* Larger icons */
+}

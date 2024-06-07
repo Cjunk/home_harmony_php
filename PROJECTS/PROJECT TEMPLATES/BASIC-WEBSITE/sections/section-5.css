@@ -1,0 +1,22 @@
+#section-5 {
+  background-color: rgb(107, 73, 107);
+  z-index: 5;
+}
+.section-5-bg {
+  height: 100%;
+  width: 100%;
+  background-image: url("../media/IMG_1737.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 3;
+  position: absolute;
+  top: 0;
+  
+}
+.section-5-container {
+  width: 100%;
+  height: 100%;
+  color: black;
+  z-index: 3;
+}

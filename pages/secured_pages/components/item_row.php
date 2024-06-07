@@ -1,6 +1,6 @@
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 <link href="../components/item_row.css" rel="stylesheet">
-
+<link href="../components/globalcss.css" rel="stylesheet">
 <?php foreach ($todos as $row) :
   $original_url = $row['item_prime_photo'];
   $transformed_url = preg_replace(
@@ -19,13 +19,17 @@
           <p class="details-line"><strong class="field-clr">Name:</strong> <?= $row['item_name']; ?></p>
           <p class="details-line"><strong class="field-clr">Item Number:</strong> <?= $row['item_number']; ?></p>
           <p class="details-line"><strong class="field-clr">Description:</strong> <?= $row['item_descr']; ?></p>
+          <p class="details-line"><strong class="field-clr">Date Added:</strong> <?= $row['soh_date_added']; ?></p>
+          <p class="details-line"><strong class="field-clr">Last Updated:</strong> <?= $row['soh_last_updated']; ?></p>
         </div>
       </div>
       <div class="">
         <div class="item-detail">
           <p></p>
-          <p class="details-line"><strong class="field-clr">Qty:</strong> <?= $row['soh_qty']; ?></p>
+          <!-- <p class="details-line"><strong class="field-clr">Qty:</strong> <?= $row['soh_qty']; ?></p> -->
           <p class="details-line"><strong class="field-clr">Location:</strong> <?= $row['location_name']; ?></p>
+          <p class="details-line"><strong class="field-clr">Note:</strong> <?= $row['note']; ?></p>
+          <p class="details-line"><strong class="field-clr">Key:</strong> <?= $row['key']; ?></p>
         </div>
       </div>
       <div class="">

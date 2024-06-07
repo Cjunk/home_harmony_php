@@ -23,6 +23,7 @@ if (file_exists($db_file)) {
 
 $conn = Database::getInstance();
 debug_log("$fileName Database connection established at " . date('Y-m-d H:i:s'));
+// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= END OF TEMPLATE CODE -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 $item_number = isset($_POST['item_number']) ? intval($_POST['item_number']) : null;
 $alt_item_number = isset($_POST['alt_item_number']) ? $_POST['alt_item_number'] : null;
@@ -35,10 +36,10 @@ $item_prime_photo = isset($_POST['item_prime_photo']) ? $_POST['item_prime_photo
 $response = ['success' => false]; // Initialize response
 
 if ($item_number !== null) {
-  $stmt = $conn->prepare("UPDATE ITEM_MASTER SET alt_item_number = ?, item_name = ?, item_descr = ?, item_barcode = ?, item_weight = ?, item_prime_photo = ? WHERE item_number = ? AND userID = ?");
+  $stmt1 = $conn->prepare("UPDATE ITEM_MASTER SET alt_item_number = ?, item_name = ?, item_descr = ?, item_barcode = ?, item_weight = ?, item_prime_photo = ? WHERE item_number = ? AND userID = ?");
 
   debug_log("Prepared UPDATE statement at " . date('Y-m-d H:i:s'));
-  $executeResult = $stmt->execute([$alt_item_number, $item_name, $item_descr, $item_barcode, $item_weight, $item_prime_photo, $item_number, $_SESSION['user_id']]);
+  $executeResult = $stmt1->execute([$alt_item_number, $item_name, $item_descr, $item_barcode, $item_weight, $item_prime_photo, $item_number, $_SESSION['user_id']]);
 
   debug_log("$fileName Executed UPDATE statement result: " . json_encode($executeResult) . " at " . date('Y-m-d H:i:s'));
 
@@ -46,7 +47,7 @@ if ($item_number !== null) {
     $response['success'] = true;
     $response['message'] = 'Item details updated successfully';
   } else {
-    $response['message'] = 'Failed to update item details. Error: ' . htmlspecialchars($stmt->errorInfo()[2]);
+    $response['message'] = 'Failed to update item details. Error: ' . htmlspecialchars($stmt1->errorInfo()[2]);
   }
 } else {
   $response['message'] = 'Invalid input';
@@ -54,4 +55,3 @@ if ($item_number !== null) {
 
 header('Content-Type: application/json');
 echo json_encode($response);
-

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document 2</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="index.css" />
+    <link rel="stylesheet" href="./sections/sections.css" />
+    <link rel="stylesheet" href="./components/nav-bar.css" />
+    <link rel="stylesheet" href="./components/footer.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <script src="./scripts/component-loader.js" defer></script>
+    <script src="./sections/section-1.js" defer></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.min.js" defer></script>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark navbar-bg"></nav>
+    <div class="modal" id="myModal">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="caption">
+              This is where the description or caption of the image will be displayed.
+            </h5>
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <!-- Close button -->
+          </div>
+          <div class="modal-body">
+            <img src="" alt="" id="img01" class="img-fluid" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <section class="section-display" id="section-1"></section>
+    <div class="scroll-container">
+      <section class="section-display" id="section-2"></section>
+      <section class="section-display" id="section-3"></section>
+      <section class="section-display" id="section-4"></section>
+      
+      <div class="scroll-container">
+        <section class="section-display" id="section-5"></section>
+        <section class="section-display" id="section-6"></section>
+        <section class="section-display" id="section-7"></section>
+        <section class="section-display" id="section-8"></section>
+        <footer class="site-footer"></footer>
+      </div>
+    </div>
+  </body>
+</html>

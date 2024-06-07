@@ -1,0 +1,827 @@
+
+fetch_stats.php: Script accessed at 2024-06-06 14:24:55 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:24:55
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:24:55
+fetch_stats.php db.php file included successfully at 2024-06-06 14:24:55
+fetch_stats.php Database connection established at 2024-06-06 14:24:55
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:24:55
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:24:55
+fetch_stats.php: Script accessed at 2024-06-06 14:26:17 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:26:17
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:26:17
+fetch_stats.php db.php file included successfully at 2024-06-06 14:26:17
+fetch_stats.php Database connection established at 2024-06-06 14:26:17
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:26:17
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:26:17
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:26:17
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:26:18
+fetch_stats.php: Script accessed at 2024-06-06 14:26:58 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:26:58
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:26:58
+fetch_stats.php db.php file included successfully at 2024-06-06 14:26:58
+fetch_stats.php Database connection established at 2024-06-06 14:26:58
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:26:58
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:26:58
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:26:58
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:26:58
+fetch_stats.php: Script accessed at 2024-06-06 14:28:19 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:28:19
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:28:19
+fetch_stats.php db.php file included successfully at 2024-06-06 14:28:19
+fetch_stats.php Database connection established at 2024-06-06 14:28:19
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:28:19
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:28:19
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:28:19
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:28:19
+fetch_stats.php: Script accessed at 2024-06-06 14:28:29 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:28:29
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:28:29
+fetch_stats.php db.php file included successfully at 2024-06-06 14:28:29
+fetch_stats.php Database connection established at 2024-06-06 14:28:29
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:28:29
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:28:29
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:28:29
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:28:29
+fetch_stats.php: Script accessed at 2024-06-06 14:28:43 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:28:43
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:28:43
+fetch_stats.php db.php file included successfully at 2024-06-06 14:28:43
+fetch_stats.php Database connection established at 2024-06-06 14:28:44
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:28:44
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:28:44
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:28:44
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:28:44
+fetch_stats.php: Script accessed at 2024-06-06 14:29:12 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:29:12
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:29:12
+fetch_stats.php db.php file included successfully at 2024-06-06 14:29:12
+fetch_stats.php Database connection established at 2024-06-06 14:29:12
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:29:12
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:29:12
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:29:12
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:29:12
+fetch_stats.php: Script accessed at 2024-06-06 14:29:19 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:29:19
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:29:19
+fetch_stats.php db.php file included successfully at 2024-06-06 14:29:19
+fetch_stats.php Database connection established at 2024-06-06 14:29:19
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:29:19
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:29:19
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:29:19
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:29:19
+fetch_stats.php: Script accessed at 2024-06-06 14:31:24 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:31:24
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:31:24
+fetch_stats.php db.php file included successfully at 2024-06-06 14:31:24
+fetch_stats.php Database connection established at 2024-06-06 14:31:25
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:31:25
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:31:25
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:31:25
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:31:25
+fetch_stats.php: Script accessed at 2024-06-06 14:31:57 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:31:57
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:31:57
+fetch_stats.php db.php file included successfully at 2024-06-06 14:31:57
+fetch_stats.php Database connection established at 2024-06-06 14:31:57
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:31:57
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:31:58
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:31:58
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:31:58
+fetch_stats.php: Script accessed at 2024-06-06 14:32:52 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:32:52
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:32:52
+fetch_stats.php db.php file included successfully at 2024-06-06 14:32:52
+fetch_stats.php Database connection established at 2024-06-06 14:32:52
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:32:52
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:32:52
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:32:52
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:32:52
+fetch_stats.php: Script accessed at 2024-06-06 14:33:00 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:33:00
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:33:00
+fetch_stats.php db.php file included successfully at 2024-06-06 14:33:00
+fetch_stats.php Database connection established at 2024-06-06 14:33:01
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:33:01
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:33:01
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:33:01
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:33:01
+fetch_stats.php: Script accessed at 2024-06-06 14:33:41 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:33:41
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:33:41
+fetch_stats.php db.php file included successfully at 2024-06-06 14:33:41
+fetch_stats.php Database connection established at 2024-06-06 14:33:41
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:33:41
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:33:41
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:33:41
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:33:41
+fetch_stats.php: Script accessed at 2024-06-06 14:33:55 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:33:55
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:33:55
+fetch_stats.php db.php file included successfully at 2024-06-06 14:33:55
+fetch_stats.php Database connection established at 2024-06-06 14:33:55
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:33:55
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:33:55
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:33:55
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:33:55
+fetch_stats.php: Script accessed at 2024-06-06 14:34:36 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:34:36
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:34:36
+fetch_stats.php db.php file included successfully at 2024-06-06 14:34:36
+fetch_stats.php Database connection established at 2024-06-06 14:34:36
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:34:36
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:34:36
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:34:36
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:34:36
+fetch_stats.php: Script accessed at 2024-06-06 14:36:31 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:36:31
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:36:31
+fetch_stats.php db.php file included successfully at 2024-06-06 14:36:31
+fetch_stats.php Database connection established at 2024-06-06 14:36:32
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:36:32
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:36:32
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:36:32
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:36:32
+fetch_stats.php: Script accessed at 2024-06-06 14:37:24 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:37:24
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:37:24
+fetch_stats.php db.php file included successfully at 2024-06-06 14:37:24
+fetch_stats.php Database connection established at 2024-06-06 14:37:24
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:37:24
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:37:24
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:37:24
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:37:24
+fetch_stats.php: Script accessed at 2024-06-06 14:38:15 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:38:15
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:38:15
+fetch_stats.php db.php file included successfully at 2024-06-06 14:38:15
+fetch_stats.php Database connection established at 2024-06-06 14:38:15
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:38:15
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:38:15
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:38:15
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:38:15
+fetch_stats.php: Script accessed at 2024-06-06 14:38:38 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:38:38
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:38:38
+fetch_stats.php db.php file included successfully at 2024-06-06 14:38:38
+fetch_stats.php Database connection established at 2024-06-06 14:38:38
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:38:38
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:38:38
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:38:38
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:38:38
+fetch_stats.php: Script accessed at 2024-06-06 14:41:24 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:41:24
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:41:24
+fetch_stats.php db.php file included successfully at 2024-06-06 14:41:24
+fetch_stats.php Database connection established at 2024-06-06 14:41:25
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:41:25
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:41:25
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:41:25
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:41:25
+fetch_stats.php: Script accessed at 2024-06-06 14:41:59 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:41:59
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:41:59
+fetch_stats.php db.php file included successfully at 2024-06-06 14:41:59
+fetch_stats.php Database connection established at 2024-06-06 14:41:59
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:41:59
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:41:59
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:41:59
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:41:59
+fetch_stats.php: Script accessed at 2024-06-06 14:42:16 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:42:16
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:42:16
+fetch_stats.php db.php file included successfully at 2024-06-06 14:42:16
+fetch_stats.php Database connection established at 2024-06-06 14:42:16
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:42:16
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:42:16
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:42:16
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:42:16
+fetch_stats.php: Script accessed at 2024-06-06 14:42:28 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:42:28
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:42:28
+fetch_stats.php db.php file included successfully at 2024-06-06 14:42:28
+fetch_stats.php Database connection established at 2024-06-06 14:42:29
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:42:29
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:42:29
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:42:29
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:42:29
+fetch_stats.php: Script accessed at 2024-06-06 14:44:18 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:44:18
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:44:18
+fetch_stats.php db.php file included successfully at 2024-06-06 14:44:18
+fetch_stats.php Database connection established at 2024-06-06 14:44:18
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:44:18
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:44:18
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:44:18
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:44:18
+fetch_stats.php: Script accessed at 2024-06-06 14:44:24 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:44:24
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:44:24
+fetch_stats.php db.php file included successfully at 2024-06-06 14:44:24
+fetch_stats.php Database connection established at 2024-06-06 14:44:24
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:44:24
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:44:24
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:44:24
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:44:24
+fetch_stats.php: Script accessed at 2024-06-06 14:44:30 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:44:30
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:44:30
+fetch_stats.php db.php file included successfully at 2024-06-06 14:44:30
+fetch_stats.php Database connection established at 2024-06-06 14:44:30
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:44:30
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:44:30
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:44:30
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:44:30
+fetch_stats.php: Script accessed at 2024-06-06 14:45:18 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:45:18
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:45:18
+fetch_stats.php db.php file included successfully at 2024-06-06 14:45:18
+fetch_stats.php Database connection established at 2024-06-06 14:45:19
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:45:19
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:45:19
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:45:19
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:45:19
+fetch_stats.php: Script accessed at 2024-06-06 14:50:26 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:50:26
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:50:26
+fetch_stats.php db.php file included successfully at 2024-06-06 14:50:26
+fetch_stats.php Database connection established at 2024-06-06 14:50:26
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:50:26
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:50:26
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:50:26
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:50:26
+fetch_stats.php: Script accessed at 2024-06-06 14:54:03 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:54:03
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:54:03
+fetch_stats.php db.php file included successfully at 2024-06-06 14:54:03
+fetch_stats.php Database connection established at 2024-06-06 14:54:04
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:54:04
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:54:04
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:54:04
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:54:04
+fetch_stats.php: Script accessed at 2024-06-06 14:55:19 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:55:19
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:55:19
+fetch_stats.php db.php file included successfully at 2024-06-06 14:55:19
+fetch_stats.php Database connection established at 2024-06-06 14:55:19
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:55:19
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:55:19
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:55:19
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:55:19
+fetch_stats.php: Script accessed at 2024-06-06 14:55:31 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:55:31
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:55:31
+fetch_stats.php db.php file included successfully at 2024-06-06 14:55:31
+fetch_stats.php Database connection established at 2024-06-06 14:55:32
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:55:32
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:55:32
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:55:32
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:55:32
+fetch_stats.php: Script accessed at 2024-06-06 14:57:49 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:57:49
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:57:49
+fetch_stats.php db.php file included successfully at 2024-06-06 14:57:49
+fetch_stats.php Database connection established at 2024-06-06 14:57:49
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:57:49
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:57:49
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:57:49
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:57:50
+fetch_stats.php: Script accessed at 2024-06-06 14:58:38 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:58:38
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:58:38
+fetch_stats.php db.php file included successfully at 2024-06-06 14:58:38
+fetch_stats.php Database connection established at 2024-06-06 14:58:38
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:58:38
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:58:38
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:58:38
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:58:38
+fetch_stats.php: Script accessed at 2024-06-06 14:58:59 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:58:59
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:58:59
+fetch_stats.php db.php file included successfully at 2024-06-06 14:58:59
+fetch_stats.php Database connection established at 2024-06-06 14:59:00
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:59:00
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:59:00
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:59:00
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:59:00
+fetch_stats.php: Script accessed at 2024-06-06 14:59:14 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:59:14
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:59:14
+fetch_stats.php db.php file included successfully at 2024-06-06 14:59:14
+fetch_stats.php Database connection established at 2024-06-06 14:59:14
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:59:14
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:59:14
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:59:14
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:59:14
+fetch_stats.php: Script accessed at 2024-06-06 14:59:28 by usr
+fetch_stats.php Session username: usr at 2024-06-06 14:59:28
+fetch_stats.php Session user_id: 2 at 2024-06-06 14:59:28
+fetch_stats.php db.php file included successfully at 2024-06-06 14:59:28
+fetch_stats.php Database connection established at 2024-06-06 14:59:29
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 14:59:29
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:59:29
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 14:59:29
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 14:59:29
+fetch_stats.php: Script accessed at 2024-06-06 15:15:45 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:15:45
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:15:45
+fetch_stats.php db.php file included successfully at 2024-06-06 15:15:45
+fetch_stats.php Database connection established at 2024-06-06 15:15:45
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:15:45
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:15:45
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:15:45
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:15:46
+fetch_stats.php: Script accessed at 2024-06-06 15:17:47 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:17:47
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:17:47
+fetch_stats.php db.php file included successfully at 2024-06-06 15:17:47
+fetch_stats.php Database connection established at 2024-06-06 15:17:48
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:17:48
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:17:48
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:17:48
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:17:48
+fetch_stats.php: Script accessed at 2024-06-06 15:17:55 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:17:55
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:17:55
+fetch_stats.php db.php file included successfully at 2024-06-06 15:17:55
+fetch_stats.php Database connection established at 2024-06-06 15:17:55
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:17:55
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:17:55
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:17:55
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:17:55
+fetch_stats.php: Script accessed at 2024-06-06 15:19:33 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:19:33
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:19:33
+fetch_stats.php db.php file included successfully at 2024-06-06 15:19:33
+fetch_stats.php Database connection established at 2024-06-06 15:19:33
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:19:33
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:19:34
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:19:34
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:19:34
+fetch_stats.php: Script accessed at 2024-06-06 15:19:48 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:19:48
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:19:48
+fetch_stats.php db.php file included successfully at 2024-06-06 15:19:48
+fetch_stats.php Database connection established at 2024-06-06 15:19:48
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:19:48
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:19:48
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:19:48
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:19:48
+fetch_stats.php: Script accessed at 2024-06-06 15:19:55 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:19:55
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:19:55
+fetch_stats.php db.php file included successfully at 2024-06-06 15:19:55
+fetch_stats.php Database connection established at 2024-06-06 15:19:56
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:19:56
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:19:56
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:19:56
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:19:56
+fetch_stats.php: Script accessed at 2024-06-06 15:20:00 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:20:00
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:20:00
+fetch_stats.php db.php file included successfully at 2024-06-06 15:20:00
+fetch_stats.php Database connection established at 2024-06-06 15:20:01
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:20:01
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:20:01
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:20:01
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:20:01
+fetch_stats.php: Script accessed at 2024-06-06 15:20:09 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:20:09
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:20:09
+fetch_stats.php db.php file included successfully at 2024-06-06 15:20:09
+fetch_stats.php Database connection established at 2024-06-06 15:20:09
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:20:09
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:20:09
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:20:09
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:20:09
+fetch_stats.php: Script accessed at 2024-06-06 15:20:48 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:20:48
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:20:48
+fetch_stats.php db.php file included successfully at 2024-06-06 15:20:48
+fetch_stats.php Database connection established at 2024-06-06 15:20:48
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:20:48
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:20:48
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:20:48
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:20:48
+fetch_stats.php: Script accessed at 2024-06-06 15:21:01 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:21:01
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:21:01
+fetch_stats.php db.php file included successfully at 2024-06-06 15:21:01
+fetch_stats.php Database connection established at 2024-06-06 15:21:02
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:21:02
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:21:02
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:21:02
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:21:02
+fetch_stats.php: Script accessed at 2024-06-06 15:24:19 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:24:19
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:24:19
+fetch_stats.php db.php file included successfully at 2024-06-06 15:24:19
+fetch_stats.php Database connection established at 2024-06-06 15:24:20
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:24:20
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:24:20
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:24:20
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:24:20
+fetch_stats.php: Script accessed at 2024-06-06 15:24:26 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:24:26
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:24:26
+fetch_stats.php db.php file included successfully at 2024-06-06 15:24:26
+fetch_stats.php Database connection established at 2024-06-06 15:24:27
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:24:27
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:24:27
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:24:27
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:24:27
+fetch_stats.php: Script accessed at 2024-06-06 15:24:35 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:24:35
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:24:35
+fetch_stats.php db.php file included successfully at 2024-06-06 15:24:35
+fetch_stats.php Database connection established at 2024-06-06 15:24:35
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:24:35
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:24:35
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:24:35
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:24:35
+fetch_stats.php: Script accessed at 2024-06-06 15:25:04 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:25:04
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:25:04
+fetch_stats.php db.php file included successfully at 2024-06-06 15:25:04
+fetch_stats.php Database connection established at 2024-06-06 15:25:04
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:25:04
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:25:04
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:25:04
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:25:04
+fetch_stats.php: Script accessed at 2024-06-06 15:30:01 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:30:01
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:30:01
+fetch_stats.php db.php file included successfully at 2024-06-06 15:30:01
+fetch_stats.php Database connection established at 2024-06-06 15:30:02
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:30:02
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:30:02
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:30:02
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:30:02
+fetch_stats.php: Script accessed at 2024-06-06 15:30:12 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:30:12
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:30:12
+fetch_stats.php db.php file included successfully at 2024-06-06 15:30:12
+fetch_stats.php Database connection established at 2024-06-06 15:30:12
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:30:12
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:30:13
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:30:13
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:30:13
+fetch_stats.php: Script accessed at 2024-06-06 15:30:47 by usr
+fetch_stats.php Session username: usr at 2024-06-06 15:30:47
+fetch_stats.php Session user_id: 2 at 2024-06-06 15:30:47
+fetch_stats.php db.php file included successfully at 2024-06-06 15:30:47
+fetch_stats.php Database connection established at 2024-06-06 15:30:47
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 15:30:47
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:30:47
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 15:30:47
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 15:30:47
+fetch_stats.php: Script accessed at 2024-06-06 16:18:36 by usr
+fetch_stats.php Session username: usr at 2024-06-06 16:18:36
+fetch_stats.php Session user_id: 2 at 2024-06-06 16:18:36
+fetch_stats.php db.php file included successfully at 2024-06-06 16:18:36
+fetch_stats.php Database connection established at 2024-06-06 16:18:36
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-06 16:18:36
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 16:18:36
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-06 16:18:36
+fetch_stats.php Executed SQL statement result: true at 2024-06-06 16:18:36
+fetch_stats.php: Script accessed at 2024-06-07 23:35:27 by usr
+fetch_stats.php Session username: usr at 2024-06-07 23:35:27
+fetch_stats.php Session user_id: 2 at 2024-06-07 23:35:27
+fetch_stats.php db.php file included successfully at 2024-06-07 23:35:27
+fetch_stats.php Database connection established at 2024-06-07 23:35:27
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-07 23:35:27
+fetch_stats.php Executed SQL statement result: true at 2024-06-07 23:35:27
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-07 23:35:27
+fetch_stats.php Executed SQL statement result: true at 2024-06-07 23:35:27
+fetch_stats.php: Script accessed at 2024-06-07 23:44:49 by usr
+fetch_stats.php Session username: usr at 2024-06-07 23:44:49
+fetch_stats.php Session user_id: 2 at 2024-06-07 23:44:49
+fetch_stats.php db.php file included successfully at 2024-06-07 23:44:49
+fetch_stats.php Database connection established at 2024-06-07 23:44:49
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-07 23:44:49
+fetch_stats.php Executed SQL statement result: true at 2024-06-07 23:44:50
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-07 23:44:50
+fetch_stats.php Executed SQL statement result: true at 2024-06-07 23:44:50
+fetch_stats.php: Script accessed at 2024-06-08 00:04:29 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:04:29
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:04:29
+fetch_stats.php db.php file included successfully at 2024-06-08 00:04:29
+fetch_stats.php Database connection established at 2024-06-08 00:04:30
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:04:30
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:04:30
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:04:30
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:04:30
+fetch_stats.php: Script accessed at 2024-06-08 00:07:21 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:07:21
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:07:21
+fetch_stats.php db.php file included successfully at 2024-06-08 00:07:21
+fetch_stats.php Database connection established at 2024-06-08 00:07:21
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:07:21
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:07:21
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:07:21
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:07:21
+fetch_stats.php: Script accessed at 2024-06-08 00:08:44 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:08:44
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:08:44
+fetch_stats.php db.php file included successfully at 2024-06-08 00:08:44
+fetch_stats.php Database connection established at 2024-06-08 00:08:45
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:08:45
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:08:45
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:08:45
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:08:45
+fetch_stats.php: Script accessed at 2024-06-08 00:08:59 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:08:59
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:08:59
+fetch_stats.php db.php file included successfully at 2024-06-08 00:08:59
+fetch_stats.php Database connection established at 2024-06-08 00:08:59
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:08:59
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:08:59
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:08:59
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:08:59
+fetch_stats.php: Script accessed at 2024-06-08 00:09:08 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:09:08
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:09:08
+fetch_stats.php db.php file included successfully at 2024-06-08 00:09:08
+fetch_stats.php Database connection established at 2024-06-08 00:09:08
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:09:08
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:09:08
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:09:08
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:09:08
+fetch_stats.php: Script accessed at 2024-06-08 00:09:21 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:09:21
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:09:21
+fetch_stats.php db.php file included successfully at 2024-06-08 00:09:21
+fetch_stats.php Database connection established at 2024-06-08 00:09:22
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:09:22
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:09:22
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:09:22
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:09:22
+fetch_stats.php: Script accessed at 2024-06-08 00:10:55 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:10:55
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:10:55
+fetch_stats.php db.php file included successfully at 2024-06-08 00:10:55
+fetch_stats.php Database connection established at 2024-06-08 00:10:55
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:10:55
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:10:55
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:10:55
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:10:55
+fetch_stats.php: Script accessed at 2024-06-08 00:11:38 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:11:38
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:11:38
+fetch_stats.php db.php file included successfully at 2024-06-08 00:11:38
+fetch_stats.php Database connection established at 2024-06-08 00:11:38
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:11:38
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:11:38
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:11:38
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:11:38
+fetch_stats.php: Script accessed at 2024-06-08 00:11:59 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:11:59
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:11:59
+fetch_stats.php db.php file included successfully at 2024-06-08 00:11:59
+fetch_stats.php Database connection established at 2024-06-08 00:12:00
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:12:00
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:12:00
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:12:00
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:12:00
+fetch_stats.php: Script accessed at 2024-06-08 00:12:14 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:12:14
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:12:14
+fetch_stats.php db.php file included successfully at 2024-06-08 00:12:14
+fetch_stats.php Database connection established at 2024-06-08 00:12:14
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:12:14
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:12:14
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:12:14
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:12:14
+fetch_stats.php: Script accessed at 2024-06-08 00:13:01 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:13:01
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:13:01
+fetch_stats.php db.php file included successfully at 2024-06-08 00:13:01
+fetch_stats.php Database connection established at 2024-06-08 00:13:02
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:13:02
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:13:02
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:13:02
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:13:02
+fetch_stats.php: Script accessed at 2024-06-08 00:13:38 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:13:38
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:13:38
+fetch_stats.php db.php file included successfully at 2024-06-08 00:13:38
+fetch_stats.php Database connection established at 2024-06-08 00:13:38
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:13:38
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:13:38
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:13:38
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:13:38
+fetch_stats.php: Script accessed at 2024-06-08 00:13:53 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:13:53
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:13:53
+fetch_stats.php db.php file included successfully at 2024-06-08 00:13:53
+fetch_stats.php Database connection established at 2024-06-08 00:13:54
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:13:54
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:13:54
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:13:54
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:13:54
+fetch_stats.php: Script accessed at 2024-06-08 00:15:21 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:15:21
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:15:21
+fetch_stats.php db.php file included successfully at 2024-06-08 00:15:21
+fetch_stats.php Database connection established at 2024-06-08 00:15:21
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:15:21
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:15:21
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:15:21
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:15:21
+fetch_stats.php: Script accessed at 2024-06-08 00:16:34 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:16:34
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:16:34
+fetch_stats.php db.php file included successfully at 2024-06-08 00:16:34
+fetch_stats.php Database connection established at 2024-06-08 00:16:34
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:16:34
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:16:34
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:16:34
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:16:34
+fetch_stats.php: Script accessed at 2024-06-08 00:17:23 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:17:23
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:17:23
+fetch_stats.php db.php file included successfully at 2024-06-08 00:17:23
+fetch_stats.php Database connection established at 2024-06-08 00:17:24
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:17:24
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:17:24
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:17:24
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:17:24
+fetch_stats.php: Script accessed at 2024-06-08 00:17:36 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:17:36
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:17:36
+fetch_stats.php db.php file included successfully at 2024-06-08 00:17:36
+fetch_stats.php Database connection established at 2024-06-08 00:17:37
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:17:37
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:17:37
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:17:37
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:17:37
+fetch_stats.php: Script accessed at 2024-06-08 00:18:52 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:18:52
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:18:52
+fetch_stats.php db.php file included successfully at 2024-06-08 00:18:52
+fetch_stats.php Database connection established at 2024-06-08 00:18:52
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:18:52
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:18:52
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:18:52
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:18:52
+fetch_stats.php: Script accessed at 2024-06-08 00:20:05 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:20:05
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:20:05
+fetch_stats.php db.php file included successfully at 2024-06-08 00:20:05
+fetch_stats.php Database connection established at 2024-06-08 00:20:06
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:20:06
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:20:06
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:20:06
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:20:06
+fetch_stats.php: Script accessed at 2024-06-08 00:20:50 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:20:50
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:20:50
+fetch_stats.php db.php file included successfully at 2024-06-08 00:20:50
+fetch_stats.php Database connection established at 2024-06-08 00:20:51
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:20:51
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:20:51
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:20:51
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:20:51
+fetch_stats.php: Script accessed at 2024-06-08 00:21:12 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:21:12
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:21:12
+fetch_stats.php db.php file included successfully at 2024-06-08 00:21:12
+fetch_stats.php Database connection established at 2024-06-08 00:21:13
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:21:13
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:21:13
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:21:13
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:21:13
+fetch_stats.php: Script accessed at 2024-06-08 00:22:25 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:22:25
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:22:25
+fetch_stats.php db.php file included successfully at 2024-06-08 00:22:25
+fetch_stats.php Database connection established at 2024-06-08 00:22:25
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:22:25
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:22:25
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:22:25
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:22:25
+fetch_stats.php: Script accessed at 2024-06-08 00:22:38 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:22:38
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:22:38
+fetch_stats.php db.php file included successfully at 2024-06-08 00:22:38
+fetch_stats.php Database connection established at 2024-06-08 00:22:38
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:22:38
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:22:38
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:22:38
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:22:38
+fetch_stats.php: Script accessed at 2024-06-08 00:23:07 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:23:07
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:23:07
+fetch_stats.php db.php file included successfully at 2024-06-08 00:23:07
+fetch_stats.php Database connection established at 2024-06-08 00:23:08
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:23:08
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:23:08
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:23:08
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:23:08
+fetch_stats.php: Script accessed at 2024-06-08 00:24:27 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:24:27
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:24:27
+fetch_stats.php db.php file included successfully at 2024-06-08 00:24:27
+fetch_stats.php Database connection established at 2024-06-08 00:24:27
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:24:27
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:24:28
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:24:28
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:24:28
+fetch_stats.php: Script accessed at 2024-06-08 00:24:33 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:24:33
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:24:33
+fetch_stats.php db.php file included successfully at 2024-06-08 00:24:33
+fetch_stats.php Database connection established at 2024-06-08 00:24:34
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:24:34
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:24:34
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:24:34
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:24:34
+fetch_stats.php: Script accessed at 2024-06-08 00:26:10 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:26:10
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:26:10
+fetch_stats.php db.php file included successfully at 2024-06-08 00:26:10
+fetch_stats.php Database connection established at 2024-06-08 00:26:10
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:26:10
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:26:10
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:26:10
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:26:10
+fetch_stats.php: Script accessed at 2024-06-08 00:26:29 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:26:29
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:26:29
+fetch_stats.php db.php file included successfully at 2024-06-08 00:26:29
+fetch_stats.php Database connection established at 2024-06-08 00:26:29
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:26:29
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:26:29
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:26:29
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:26:30
+fetch_stats.php: Script accessed at 2024-06-08 00:28:57 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:28:57
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:28:57
+fetch_stats.php db.php file included successfully at 2024-06-08 00:28:57
+fetch_stats.php Database connection established at 2024-06-08 00:28:58
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:28:58
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:28:58
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:28:58
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:28:58
+fetch_stats.php: Script accessed at 2024-06-08 00:30:53 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:30:53
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:30:53
+fetch_stats.php db.php file included successfully at 2024-06-08 00:30:53
+fetch_stats.php Database connection established at 2024-06-08 00:30:54
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:30:54
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:30:54
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:30:54
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:30:54
+fetch_stats.php: Script accessed at 2024-06-08 00:31:00 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:31:00
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:31:00
+fetch_stats.php db.php file included successfully at 2024-06-08 00:31:00
+fetch_stats.php Database connection established at 2024-06-08 00:31:00
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:31:00
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:31:00
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:31:00
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:31:00
+fetch_stats.php: Script accessed at 2024-06-08 00:31:04 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:31:04
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:31:04
+fetch_stats.php db.php file included successfully at 2024-06-08 00:31:04
+fetch_stats.php Database connection established at 2024-06-08 00:31:04
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:31:04
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:31:04
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:31:04
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:31:04
+fetch_stats.php: Script accessed at 2024-06-08 00:31:47 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:31:47
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:31:47
+fetch_stats.php db.php file included successfully at 2024-06-08 00:31:47
+fetch_stats.php Database connection established at 2024-06-08 00:31:47
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:31:47
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:31:48
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:31:48
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:31:48
+fetch_stats.php: Script accessed at 2024-06-08 00:31:53 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:31:53
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:31:53
+fetch_stats.php db.php file included successfully at 2024-06-08 00:31:53
+fetch_stats.php Database connection established at 2024-06-08 00:31:54
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:31:54
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:31:54
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:31:54
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:31:54
+fetch_stats.php: Script accessed at 2024-06-08 00:35:10 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:35:10
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:35:10
+fetch_stats.php db.php file included successfully at 2024-06-08 00:35:10
+fetch_stats.php Database connection established at 2024-06-08 00:35:10
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:35:10
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:35:10
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:35:10
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:35:10
+fetch_stats.php: Script accessed at 2024-06-08 00:36:38 by usr
+fetch_stats.php Session username: usr at 2024-06-08 00:36:38
+fetch_stats.php Session user_id: 2 at 2024-06-08 00:36:38
+fetch_stats.php db.php file included successfully at 2024-06-08 00:36:38
+fetch_stats.php Database connection established at 2024-06-08 00:36:38
+fetch_stats.php: Prepared SQL statement for item distribution at 2024-06-08 00:36:38
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:36:38
+fetch_stats.php: Prepared SQL statement for location utilisation at 2024-06-08 00:36:38
+fetch_stats.php Executed SQL statement result: true at 2024-06-08 00:36:39

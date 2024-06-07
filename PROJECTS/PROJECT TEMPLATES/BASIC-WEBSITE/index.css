@@ -1,0 +1,25 @@
+/* Hides scrollbar for Chrome, Safari, and Opera */
+body::-webkit-scrollbar,
+html::-webkit-scrollbar {
+  /* Chrome, Safari and Opera */
+  width: 0px;
+  background: transparent; /* Optional: just making sure the scrollbar is completely gone */
+}
+
+/* Hides scrollbar for IE, Edge, and Firefox */
+html {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+  scroll-behavior: smooth;
+}
+body,
+html {
+  margin: 0;
+  padding-top: 0px; /* Height of the navbar */
+  height: 100vh; /* This might be causing an issue if the entire HTML is set to just 100% height */
+  overflow-x: hidden; /* Prevents horizontal scrolling */
+  overflow-y: scroll; /* Keeps vertical scrolling */
+  font-family: Arial, sans-serif; /* Improves text readability */
+}
+
+

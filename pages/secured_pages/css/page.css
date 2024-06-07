@@ -4,9 +4,9 @@ Written by Jericho Sharman 2024
 */
 
 :root {
-  --content-background-clr:linear-gradient(rgb(154, 154, 250), rgb(215, 223, 194));
+  --content-background-clr:linear-gradient(rgb(235, 235, 242), rgb(212, 225, 178));
   --title-background-clr:rgb(28, 32, 90);
-  --page-title-bottom-border-clr:grey solid 1px;
+  --page-title-bottom-border-clr:rgb(161, 35, 35) solid 1px;
   --page-title-box-shadow:1px 1px 22px black;
 }
 

@@ -1,5 +1,5 @@
   <?php  /* Security measure so one must be logged in to execute this php file*/
-  session_start();
+  // session_start();
   if (!isset($_SESSION['username'])) {
     // If the session variables are not set, redirect to login page
     header('Location:../../../index.php');

@@ -34,40 +34,40 @@ $response = ['success' => false]; // Initialize response
 debug_log("Received soh_id: $soh_id, quantity: $quantity at " . date('Y-m-d H:i:s'));
 
 if ($soh_id !== null && $quantity !== null) {
-  $stmt = $conn->prepare("SELECT * FROM SOH WHERE soh_id = ? AND userID = ?");
+  $stmt1 = $conn->prepare("SELECT * FROM SOH WHERE soh_id = ? AND userID = ?");
   debug_log("Prepared SELECT statement at " . date('Y-m-d H:i:s'));
 
 
-  $executeResult = $stmt->execute([$soh_id, $_SESSION['user_id']]);
+  $executeResult = $stmt1->execute([$soh_id, $_SESSION['user_id']]);
   debug_log("Executed SELECT statement result: " . json_encode($executeResult) . " at " . date('Y-m-d H:i:s'));
 
   if ($executeResult) {
     debug_log("Executed SELECT statement successfully at " . date('Y-m-d H:i:s'));
-    $soh_item = $stmt->fetch();
+    $soh_item = $stmt1->fetch();
     if ($soh_item) {
       debug_log("Found SOH item at " . date('Y-m-d H:i:s'));
       if ($quantity == 0) {
-        $stmt = $conn->prepare("DELETE FROM SOH WHERE soh_id = ? AND userID = ?");
-        if ($stmt->execute([$soh_id, $_SESSION['user_id']])) {
+        $stmt1 = $conn->prepare("DELETE FROM SOH WHERE soh_id = ? AND userID = ?");
+        if ($stmt1->execute([$soh_id, $_SESSION['user_id']])) {
           unset($_SESSION['todos'][$soh_id]);
           $response['success'] = true;
           $response['deleted'] = true;
           $response['message'] = 'Item removed due to zero quantity';
           debug_log("Deleted SOH item with ID $soh_id at " . date('Y-m-d H:i:s'));
         } else {
-          $response['message'] = 'Failed to delete item. Error: ' . htmlspecialchars($stmt->errorInfo()[2]);
-          debug_log("Failed to delete SOH item with ID $soh_id at " . date('Y-m-d H:i:s') . ". Error: " . htmlspecialchars($stmt->errorInfo()[2]));
+          $response['message'] = 'Failed to delete item. Error: ' . htmlspecialchars($stmt1->errorInfo()[2]);
+          debug_log("Failed to delete SOH item with ID $soh_id at " . date('Y-m-d H:i:s') . ". Error: " . htmlspecialchars($stmt1->errorInfo()[2]));
         }
       } else {
-        $stmt = $conn->prepare("UPDATE SOH SET soh_qty = ? WHERE soh_id = ? AND userID = ?");
-        if ($stmt->execute([$quantity, $soh_id, $_SESSION['user_id']])) {
+        $stmt1 = $conn->prepare("UPDATE SOH SET soh_qty = ? WHERE soh_id = ? AND userID = ?");
+        if ($stmt1->execute([$quantity, $soh_id, $_SESSION['user_id']])) {
           $_SESSION['todos'][$soh_id]['soh_qty'] = $quantity;
           $response['success'] = true;
           $response['deleted'] = false;
           debug_log("Updated SOH quantity for ID $soh_id to $quantity at " . date('Y-m-d H:i:s'));
         } else {
-          $response['message'] = 'Failed to update quantity. Error: ' . htmlspecialchars($stmt->errorInfo()[2]);
-          debug_log("Failed to update quantity for SOH ID $soh_id at " . date('Y-m-d H:i:s') . ". Error: " . htmlspecialchars($stmt->errorInfo()[2]));
+          $response['message'] = 'Failed to update quantity. Error: ' . htmlspecialchars($stmt1->errorInfo()[2]);
+          debug_log("Failed to update quantity for SOH ID $soh_id at " . date('Y-m-d H:i:s') . ". Error: " . htmlspecialchars($stmt1->errorInfo()[2]));
         }
       }
     } else {
@@ -75,7 +75,7 @@ if ($soh_id !== null && $quantity !== null) {
       debug_log("Unauthorized action or item not found for SOH ID $soh_id at " . date('Y-m-d H:i:s'));
     }
   } else {
-    $errorInfo = $stmt->errorInfo();
+    $errorInfo = $stmt1->errorInfo();
     $response['message'] = 'Failed to execute query. Error: ' . htmlspecialchars($errorInfo[2]);
     debug_log("Failed to execute SELECT statement for SOH ID $soh_id at " . date('Y-m-d H:i:s') . ". Error: " . htmlspecialchars($errorInfo[2]));
   }

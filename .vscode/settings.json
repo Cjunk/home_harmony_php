@@ -18,7 +18,7 @@
     "composer": true,
     "composer.lock": true,
     "composer.phar": true,
-    ".vscode": true,
+    ".vscode": false,
     "vid2.mp4": true
   },
   "explorerExclude.backup": {}

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Logic Map</title>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true });
+
+        document.addEventListener('DOMContentLoaded', (event) => {
+            const graphDefinition = `
+                graph TD
+                classDef smallText font-size:12px;
+                classDef tightSpacing spacing:0.5em;
+                subgraph Components
+                  subgraph Header
+                    header_css[css]:::clickable
+                    header_php[php]:::clickable
+                  end
+                  subgraph secured_menu
+                    secured_menu_html[html]:::clickable
+                    secured_menu_js[js]:::clickable
+                  end
+                end
+                subgraph Global
+                  debug_log[debug_log.txt]:::clickable
+                  config[config.php]:::clickable
+                  db[db.php]:::clickable
+                end
+                subgraph Index
+                  A[Index.php]:::clickable
+                  B[index.css]:::clickable
+                  C[index.js]:::clickable
+                end
+
+                subgraph Authenticate
+                  LO[Login]:::clickable
+                  RE[Register]:::clickable
+                end
+                subgraph ItemRow
+                  Item_master_row.css[Item_master_row.css]:::clickable
+                  Item_master_row.php[Item_master_row.php]:::clickable
+                end
+                subgraph LocationRow
+                  Location_row_php[Location_row.php]:::clickable
+                end
+                subgraph Security
+                  D[Insecured]:::clickable
+                  E[Secured_pages]:::clickable
+                end
+                subgraph Pages
+                  SOH[soh_page.php]:::clickable
+                  IM[item_master.php]:::clickable
+                  LM[Location_master.php]:::clickable
+                  STATS[stats.php]:::clickable
+                  class SOH,IM,LM,STATS smallText;
+                end
+                HO[Home.php]:::clickable
+                HO -.-> home_script[home_script.js]:::clickable
+                HO -.-> home_styles[home_styles.css]:::clickable
+                Index --> Authenticate
+                
+                LO --> HO
+                HO --> Pages
+                IM --> ItemRow
+                LM --> LocationRow
+            `;
+
+            const mermaidElement = document.querySelector('.mermaid');
+            mermaidElement.innerHTML = graphDefinition;
+
+            mermaid.contentLoaded();
+
+            setTimeout(() => {
+                const links = {
+                    'A': 'vscode://file/F:/DEVELOPER/index.php',
+                    'B': 'vscode://file/F:/DEVELOPER/index.css',
+                    'C': 'vscode://file/F:/DEVELOPER/index.js',
+                    'HO': 'vscode://file/F:/DEVELOPER/pages/secured_pages/home_project_page/home.php',
+                    'LO': 'vscode://file/F:/DEVELOPER/pages/insecured/Login.html',
+                    'RE': 'vscode://file/F:/DEVELOPER/pages/insecured/register.html',
+                    'Item_master_row.css': 'vscode://file/F:/DEVELOPER/pages/secured_pages/components/Item_master_row.css',
+                    'Item_master_row.php': 'vscode://file/F:/DEVELOPER/pages/secured_pages/components/Item_master_row.php',
+
+                    'Location_row_php': 'vscode://file/C:/path/to/your/project/Location_row.php',
+                    'D': 'vscode://file/C:/path/to/your/project/insecured',
+                    'E': 'vscode://file/C:/path/to/your/project/secured_pages',
+                    'SOH': 'vscode://file/C:/path/to/your/project/soh_page.php',
+                    'IM': 'vscode://file/C:/path/to/your/project/item_master.php',
+                    'LM': 'vscode://file/C:/path/to/your/project/Location_master.php',
+
+                    'STATS': 'vscode://file/F:/DEVELOPER/pages/secured_pages/statistics_page/stats.php',
+                    'debug_log': 'vscode://file/F:/DEVELOPER/pages/secured_pages/php/debug_log.txt',
+                    'home_script': 'vscode://file/F:/DEVELOPER/pages/secured_pages/home_project_page/home_script.js',
+                    'home_styles': 'vscode://file/F:/DEVELOPER/pages/secured_pages/home_project_page/home_styles.css',
+                    'config': 'vscode://file/F:/DEVELOPER/php/config.php',
+                    'db': 'vscode://file/F:/DEVELOPER/pages/secured_pages/php/db.php',
+                    'header_css':'vscode://file/F:/DEVELOPER/home_harmony_components/header/header.css',
+                    'header_php':'vscode://file/F:/DEVELOPER/home_harmony_components/header/header.php',
+                    'secured_menu_html':'vscode://file/F:/DEVELOPER/home_harmony_components/header/secured_menu.html',
+                    'secured_menu_js':'vscode://file/F:/DEVELOPER/home_harmony_components/header/secured_menu.js'
+                    
+                };
+
+                console.log("Attempting to add click events:");
+                Object.keys(links).forEach(id => {
+                    const element = document.querySelector(`g[data-id="${id}"]`);
+                    if (element) {
+                        console.log(`Element found: ${id}`);
+                        element.style.cursor = 'pointer';
+                        element.addEventListener('click', () => {
+                            console.log(`Clicked on ${id}, navigating to ${links[id]}`);
+                            window.location.href = links[id];
+                        });
+                    } else {
+                        console.log(`Element with data-id ${id} not found.`);
+                    }
+                });
+            }, 1000); // Adjust delay as necessary
+        });
+    </script>
+    <style>
+        .mermaid {
+            font-family: Arial, sans-serif;
+        }
+        .clickable {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Project Logic Map</h1>
+    <div class="mermaid">
+        %% This content will be replaced by the rendered Mermaid diagram %%
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
